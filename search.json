@@ -1,0 +1,29 @@
+---
+---
+[
+
+
+	{% for item in site.pages %}
+		{
+			"title"    : "{{ item.title | escape }}",
+      "category" : "{{ item.categories }}",
+      "url"      : "{{ site.baseurl }}{{ item.url }}",
+      "date"     : "{{ item.date | date_to_string}}"
+		},
+  {% endfor %}
+
+	{% for collection in site.collections %}
+		{% for item in site[collection.label] %}
+			{
+				"title"    : "{{ item.title | escape }}",
+	      "category" : "{{ item.categories }}",
+	      "tags"     : "{{ item.tags | array_to_sentence_string }}",
+	      "url"      : "{{ site.baseurl }}{{ item.url }}",
+	      "date"     : "{{ item.date | date_to_string}}"
+			}{% unless forloop.last %},{% endunless %}
+	  {% endfor %}
+	 	{% unless forloop.last %},{% endunless %}
+	{% endfor %}
+
+
+]

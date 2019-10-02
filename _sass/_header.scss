@@ -1,0 +1,172 @@
+html,
+body {
+ height:100%
+}
+.header-site,
+.header-post {
+ background:#ff4242;
+ height:100%;
+  .content {
+     width:95%;
+     position:absolute;
+     -webkit-transform-style:preserve-3d;
+     transform-style:preserve-3d;
+     top:50%;
+     left:50%;
+     -webkit-transform:translate(-50%,-50%);
+     transform:translate(-50%,-50%);
+     text-align:center
+  }
+}
+
+/* Default */
+.header-site {
+  h1,h2 {
+   color:#fff;
+   text-align:center;
+  }
+  .site-title {
+   font-size:3.75rem;
+   line-height:1;
+   margin-top:-80px;
+   display:block;
+  }
+  .site-description {
+   font-size:1.25rem;
+   display:block;
+   margin:1.875rem 0;
+  }
+}
+
+/* home page */
+.default .header-site {
+  .site-title {
+    font-size:3.75rem;
+    line-height:1;
+    margin-top: 0;
+    text-indent: -200rem;
+    height: 185px;
+    background:#ff4242 url('../img/logo-nothing2hide.svg') no-repeat center center;
+  }
+  .site-description {
+    font-size:2rem; 
+    font-weight: 100;
+  }  
+}
+
+/* post and pages */
+.header-post {
+  .subheader {
+   display:table;
+   padding:20px;
+  }
+  .subheader a {
+   border:2px solid #fff;
+   border-radius:20px;
+   padding:0 10px;
+  }
+  .header-post h1 {
+  font-size:3.75rem
+ }
+  a.home {
+    background: #ff4242 url('../img/logo-nothing2hide.svg') no-repeat center center;
+    position: absolute;
+    text-indent: -2000em;
+    bottom: 1%;
+    left: 1%;
+    display: block;
+    height: 65px;
+    width: 110px;
+    background-size: contain;
+  }
+  a {
+    color: #fff
+  }
+}
+
+.header-post {
+  .date,
+  .collectioninfo {
+   font-family:'Open Sans',sans-serif;
+   font-weight:300;
+   font-style:normal;
+   font-size:1rem
+  }
+  h1 {
+   text-transform:uppercase;
+   font-size:3.875rem;
+   margin:0 0 30px;
+  }
+}
+
+.header-post {
+  .subtitle {
+   font-family:'Open Sans',sans-serif;
+   font-weight:300;
+   font-style:normal;
+   font-size:1.25rem
+  }
+  h1,
+  .subtitle,
+  .date, 
+  .collectioninfo a {
+   color:#fff;
+   text-align:center
+  }
+  .collectioninfo a:link {
+    text-decoration:none;
+  }
+  p {
+   color:#fff;
+   text-decoration:none;
+   font-family:'Open Sans',sans-serif;
+   font-weight:300;
+   font-style:normal;
+   font-size:1.125rem
+  }
+}
+
+/* mobile */
+@media only screen and (min-width:37.5rem) {
+  .header-site .site-title {
+  margin-bottom:0;
+  font-size:6.25rem
+  }
+  .header-site .site-description {
+  font-size:2.5rem
+  } 
+  .header-post .content {
+  *zoom:1;
+  width:auto;
+  max-width:1000px;
+  float:none;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  padding-left:0;
+  padding-right:0
+  }
+  .header-post .content:before,
+  .header-post .content:after {
+  content:'';
+  display:table
+  }
+  .header-post .content:after {
+  clear:both
+  } 
+  .header-post .subheader a {
+  padding:0 10px
+  }
+}
+@media only screen and (max-width:37.5rem) {
+  .header-post {
+    h1 {
+      font-size:2rem;
+    }
+    a.home {
+      bottom: 1%;
+      left: 0%;
+      height: 50px;
+    }
+  }
+}

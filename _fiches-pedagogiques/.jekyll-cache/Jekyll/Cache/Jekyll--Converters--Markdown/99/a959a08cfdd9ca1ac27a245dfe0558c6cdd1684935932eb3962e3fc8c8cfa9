@@ -1,0 +1,145 @@
+I"�<h2 id="étape-1--préparation">Étape 1 : Préparation</h2>
+
+<p>Pour cet atelier nous utilisons Ethercalc, un outils libre, plutôt que
+Google Forms. La prise en main en est un tout petit peu plus ardue, mais
+on n’allait pas non plus faire un atelier sur les données personnelles
+en utilisant des outils de la société qui en capte le plus au monde 🙂</p>
+
+<p>Nous avons préparé pour cet atelier <a href="https://lite.framacalc.org/atelier-data">un
+formulaire</a>. N’hésitez pas à le
+dupliquer sur un autre feuille Ethercal pour vous créer le vôtre (ctrl-a</p>
+<ul>
+  <li>ctrl-c + ctrl-v dans une autre feuille Ethercal) et pour vous
+l’approprier.</li>
+</ul>
+
+<p>Vous allez demander aux participants de remplir un formulaire décrivant
+le temps de chaque activité qu’ils effectuent au cours d’une journée
+moyenne. Nous sommes partis sur des bases simples :</p>
+
+<ul>
+  <li>travail</li>
+  <li>loisir</li>
+  <li>repas</li>
+  <li>sport</li>
+  <li>repos</li>
+</ul>
+
+<p>Vous pourrez évidemment en ajouter ou supprimer en fonction de votre
+groupe. Attention de bien modifier le formulaire que vous allez
+utiliser. Pour plus d’informations sur les modifications de formulaires
+Ethercalc, jetez un œil sur le <a href="https://github.com/audreyt/ethercalc/wiki/HomeFr">Wiki
+dédié</a>.</p>
+
+<h2 id="étape-2--récupérer-de-la-data-">Étape 2 : récupérer de la data *</h2>
+
+<p><em>* avec le consentement des utilisateurs, pas comme <a href="https://www.lemonde.fr/pixels/article/2019/01/21/donnees-personnelles-la-cnil-condamne-google-a-une-amende-record-de-50-millions-d-euros_5412337_4408996.html">Google qui s’est
+vu infligé une amende de 50 millions d’euros par la CNIL en
+2019</a>.</em></p>
+
+<p>Lorsque l’atelier commence, expliquez aux participants que vous allez
+créer et manipuler des données. Demandez-leur d’aller remplir le
+formulaire en ligne que vous avez préparé. Pour ce faire, après avoir
+dupliqué et éventuellement modifié le formulaire, envoyez l’adresse aux
+participants. Pour l’obtenir, allez sur votre feuille Ethercalc, cliquez
+sur formulaire puis sur le bouton « Formulaire en direct ». Vous obtenez
+l’URL du formulaire qui va renseigner votre feuille de calcul Ethercalc.</p>
+
+<p><img src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data1.png" alt="" /></p>
+
+<p>Une fois que tous les participants ont rempli le formulaire, vous allez
+maintenant manipuler les données et les afficher.</p>
+
+<h2 id="étape-3--traitement-de-données">Étape 3 : traitement de données</h2>
+
+<p>Vous allez pour chaque participant créer un graphique des données
+saisies. Vous allez ensuite les imprimer et chaque participant devra
+reconnaître son graphique.</p>
+
+<p>Pour ce faire, il faut récupérer les données entrées par les
+participants. Ajoutez à la fin de l’URL de votre feuille de calcul ceci
+<em>_formdata/view</em>. Exemple : si votre feuille de calcul est accessible à
+l’adresse <em>https://lite.framacalc.org/atelier-data</em>, l’URL de
+visualisation des résultats sera :
+<em>https://lite.framacalc.org/atelier-data<strong>_formdata/view</strong></em>.</p>
+
+<p>Sélectionnez les données et copiez-les dans une nouvelle feuille.</p>
+
+<p>Sur la nouvelle feuille, vous allez tout d’abord changer l’intitulé des
+cellules et remplacer les selectB5 selectB6 etc. par les vrais noms des
+champs, à savoir si vous avez gardé le modèle proposé dans cette fiche :</p>
+
+<ul>
+  <li>Travail</li>
+  <li>Loisir</li>
+  <li>Repas</li>
+  <li>Sport</li>
+  <li>Repos</li>
+</ul>
+
+<p>Supprimez la première colonne qui va nous gêner pour la génération des
+graphiques et qui ne contient de toute façon pas d’informations
+pertinentes.</p>
+
+<p>Sélectionnez la première ligne, cliquez sur Graphique puis sélectionnez
+dans la liste « type de graphique » « diagramme circulaire
+(camembert) ».</p>
+
+<p>Le camembert s’affiche. Faites un clic droit dessus. Sélectionnez
+« copier l’adresse de l’image ».</p>
+
+<p>Ouvrez un nouvel onglet dans votre navigateur. Collez l’URL. Vous pouvez
+maintenant imprimer le graphique !</p>
+
+<p>Tout est résumé dans la vidéo ci-dessous :</p>
+
+<figure>
+    <video controls="" src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/Ethercalc.m4v.mp4"></video>
+</figure>
+
+<h2 id="étape-4--analyse-des-données">Étape 4 : analyse des données</h2>
+
+<p>Une fois les graphiques imprimés, affichez-les au mur et analysez-les :</p>
+
+<ol>
+  <li>Chaque participant va essayer de retrouver celui qui correspond à
+ses données</li>
+  <li>Les participants vont ensuite comparer leurs graphiques à ceux de
+différents types de personnes (des adultes, des enfants, des
+politiques) que vous pourrez réaliser ensemble.</li>
+</ol>
+
+<p>Laissez-les admirer leurs emplois du temps ! Engagez une discussion sur
+l’utilité des données, et l’utilité de la mise en commun des données
+personnelles. Sensibilisez-les au fait que lorsqu’ils vont sur Internet,
+sans forcément qu’ils s’en rendent compte, de nombreux acteurs récoltent
+leurs données personnelles, pas uniquement pour les contempler, mais
+plutôt pour les revendre à des sociétés pour faire de la publicité
+ciblée ensuite (il y a une fiche atelier sur VDN !). C’est le cas de
+Facebook, Google, et d’autres sociétés en France telles que Critéo par
+exemple, qui recueillent ces informations. Peut-être n’ont-ils pas envie
+que des inconnus vendent des informations les concernant à d’autres
+inconnus… À la fin de cette activité, réaliser l’atelier <a href="https://voyageursdunumerique.fr/fiche/qui-veut-donner-ses-donnees/">Qui veut
+donner ses données</a>
+est un bon moyen d’aborder ce débat avec des enfants.</p>
+
+<h2 id="variantes">Variantes</h2>
+
+<ol>
+  <li>Vous pouvez recueillir d’autres types de données en changeant le
+formulaire Ethercalc.</li>
+  <li>Si vous modifiez le formulaire, selon la complexité des données
+recueillies, vous pouvez créer les graphiques en utilisant le site
+datawrapper.de. Pour ce faire il vous faudra copier-coller les
+données de Ethercalc vers
+<a href="https://app.datawrapper.de/">datawrapper.de</a>, véritable couteau
+suisse de la visualisation de données !</li>
+  <li>Vous pouvez agréger les données avec quelques formules sur votre
+nouvelle feuille de calcul et afficher les moyennes, les heures
+cumulées, etc.</li>
+</ol>
+
+<p><em><a href="https://collectifbam.fr/projets/realisations/atelier-1-2-3-data/details">Cette activité est inspirée de l’atelier du collectif
+BAM</a>
+et est diffusée sous licence Creative commons CC BY SA.</em></p>
+:ET

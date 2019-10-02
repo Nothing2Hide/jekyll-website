@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        {% include svg-icons.html %}
+        {% include header-post.html %}
+        <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+            <article role="article" id="scroll" class="post-content" itemprop="articleBody">
+                {{ content }}
+                <div class="tags">
+                    {% for tag in page.tags %}
+                        <a href="{{ site.baseurl }}/{{page.lang}}/tags/#{{tag | slugify }}">{{ tag }}</a>
+                    {% endfor %}
+                </div>
+                {% include nav_articles.html %}
+            </article>
+            {% include footer.html %}
+        </section>
+    </body>
+</html>

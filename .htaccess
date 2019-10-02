@@ -1,0 +1,23 @@
+# formations redirections
+Redirect /fr/catalogue-formations/securite-numerique-les-bases/ /fr/formations/securite-numerique-les-bases/
+Redirect /fr/catalogue-formations/securiser-sa-navigation/ /fr/formations/securiser-sa-navigation/
+Redirect /fr/catalogue-formations/reseaux-sociaux/
+Redirect /fr/catalogue-formations/smartphones/
+Redirect /fr/catalogue-formations/sauvegarder-ses-donnees/
+Redirect /fr/catalogue-formations/la-crypto-pour-les-nuls/
+Redirect /fr/catalogue-formations/cryptographie-avancee/
+Redirect /fr/catalogue-formations/modele-de-menace/
+
+# fiches pedagogiques redirections
+Redirect /fr/themes/sinformer-sur-internet/ /fr/fiches-pedagogiques/sinformer-sur-internet/
+
+
+# Guide redirection
+Redirect /fr/coupe-du-monde-russie/un-ordinateur-sans-donnees/ /fr/guide-protection-numerique/un-ordinateur-sans-donnees/
+Redirect /fr/coupe-du-monde-russie/chiffrer-le-contenu-de-vos-peripheriques/ /fr/guide-protection-numerique/chiffrer-le-contenu-de-vos-peripheriques/
+Redirect /fr/coupe-du-monde-russie/mot-de-passe-robuste/ /fr/guide-protection-numerique/mot-de-passe-robuste/
+Redirect /fr/coupe-du-monde-russie/activer-la-double-authentification/ /fr/guide-protection-numerique/activer-la-double-authentification/
+Redirect /fr/coupe-du-monde-russie/eviter-les-regards-indiscrets/ /fr/guide-protection-numerique/eviter-les-regards-indiscrets/
+Redirect /fr/coupe-du-monde-russie/peripheriques-sans-surveillance/ /fr/guide-protection-numerique/peripheriques-sans-surveillance/
+Redirect /fr/coupe-du-monde-russie/proteger-son-trafic-web-et-internet-avec-un-vpn/ /fr/guide-protection-numerique/proteger-son-trafic-web-et-internet-avec-un-vpn/
+

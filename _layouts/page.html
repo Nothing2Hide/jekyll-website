@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body class="{{ page.title | slugify : "latin" }}">
+        {% include svg-icons.html %}
+        {% include header-page.html %}
+        <section class="page">
+
+            <article role="article" id="scroll" class="post-content" itemprop="articleBody">
+                {{ content }}
+            </article>
+            
+            {% include footer.html %}
+        </section>
+    </body>
+</html>

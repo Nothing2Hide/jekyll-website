@@ -1,0 +1,108 @@
+# Site settings
+title: Nothing2Hide
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://nothing2hide2.local" # the base hostname & protocol for your site e.g.
+
+plugins:
+  - jekyll-feed 
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# contact settings
+email: contact@nothing2hide.org
+twitter_username: n0thing2hide
+github_username:  nothing2hide
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: true
+highlighter: rouge
+permalink: /:title/
+
+# permalinks posts
+permalink: /:path/
+
+# collections
+collections:
+  formations:
+    title: Nos formations
+    output: true
+    sort_by: order
+    permalink: /fr/:collection/:name/
+  fiches-pedagogiques:
+    title: Fiches pédagogiques
+    output: true
+    sort_by: date    
+    permalink: /fr/:collection/:name/
+  trainings:
+    output: true
+    sort_by: order
+    permalink: /en/:collection/:name/
+
+# translation
+t:
+  fr:
+    home:  "Accueil"
+    description: "Protéger l'information"
+    menu-main:
+      - title: "Accueil"
+        url: "/fr/"
+      - title: "Actualités"
+        url: "/fr/actualites/"
+      - title: "Formations"
+        url: "/fr/formations/"
+      - title: "Fiches pédagogiques"
+        url: "/fr/fiches-pedagogiques/"
+      - title: "Nos projets"
+        url: "/fr/projets/"
+      - title: "Nous soutenir"
+        url: "/fr/faire-un-don/"
+      - title: "Qui sommes-nous"
+        url: "/fr/a-propos/"
+    menu-footer1:
+      - title: "Nos partenaires"
+        url: "/fr/partenaires/"
+      - title: "Presse"
+        url: "/fr/presse/"
+      - title: "Le Wiki de l'asso"
+        url: "https://nothing2hide.org/wiki/"
+      - title: "VPN"
+        url: "/fr/guide-protection-numerique/proteger-son-trafic-web-et-internet-avec-un-vpn/"
+      - title: Newsletter
+        url: "/fr/newsletter/"
+    menu-footer2:
+      - title: "Politique de confidentialité"
+        url: "/fr/politique-de-confidentialite/"
+      - title: "Mentions légales"
+        url: "/fr/mentions-legales/"
+    share: "Partager"
+    next: "Suivant"
+    previous: "Précédent"
+    send: "Envoyer"
+    readnext: "Lire la suite"
+  en:
+    home:  "Home"
+    description: "Protect the information"
+    menu-main:
+      - title: "Home"
+        url: "/en/"
+      - title: "News"
+        url: "/en/news/"
+      - title: "Trainings"
+        url: "/en/catalog-trainings/"
+      - title: "About us"
+        url: "/en/who-whe-are/"
+      - title: "Support us"
+        url: "/en/donate/"
+    share: "Share"
+    next: "Next"
+    previous: "Previous"
+    send: "Send"
+    readnext: "Read next"
+
+# form translations
+error-email-fr: "Entrez un email valide"
+error-email-en: ""
+error-name-fr: "Vous devez renseigner votre nom"
+error-name-en: ""

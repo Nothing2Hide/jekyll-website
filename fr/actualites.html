@@ -1,0 +1,39 @@
+---
+layout: page
+title: Actualités
+lang: fr
+permalink: /fr/actualites/
+---
+
+<main id="scroll" class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+  {% assign site_posts = site.posts | where:"lang", page.lang %}
+  {% for post in site_posts %}
+    <article role="article" class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+            <a class="datetime" href="{{ post.url | prepend: site.baseurl }}">
+                <meta itemprop="datePublished" content="{{post.date}}">
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    <span class="day">
+                        {{ post.date | date: "%-d" }}
+                    </span>
+                    <span class="month-year">
+                        {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}janv.{% when '2' %}févr.{% when '3' %}mars{% when '4' %}avr.{% when '5' %}mai{% when '6' %}juin{% when '7' %}juil.{% when '8' %}août{% when '9' %}sept.{% when '10' %}oct.{% when '11' %}nov.{% when '12' %}déc.{% endcase %} 
+                        {{ post.date | date: '%Y' }}
+                    </span>
+                </time>
+            </a>
+            <div class="content">
+                <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ post.title }}</h2></a>
+                <p class="description">
+                    {{ post.content | strip_html | truncatewords:40 }}
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="link">{{ site.t[page.lang].readnext}}</a>
+                </p>
+
+                <div class="tags">
+                    {% for tag in post.tags %}
+                        <a href="{{ site.baseurl }}/{{page.lang}}/tags/#{{tag | slugify }}">{{ tag }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+    </article>
+  {% endfor %}
+</main>

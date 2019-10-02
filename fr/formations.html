@@ -1,0 +1,77 @@
+---
+layout: page
+title: Nos formations
+lang: "fr"
+order: 3
+categories: [home]
+description: "Se former pour mieux se protéger et mieux s’informer. Nothing2Hide propose des formations à la <a href=\"#securite-numerique\">sécurité numérique</a> et à l’<a href=\"#investigation-en-ligne\">investigation en ligne</a>. "
+---
+
+{% assign cat1 = "Sécurité numérique" %}
+{% assign cat2 = "Investigation en ligne" %}
+<main id="scroll" class="home">
+  {% assign site_items = site.formations | where: "category", cat1  %}
+    <header class="collection">
+      <h2 id="{{ cat1 | slugify: "latin" }}">{{ cat1 }}</h2>
+      <p>Nos formations à la sécurité numérique sont organisées en 8 modules progressifs d'une durée de 2 à 3 heures. Nous pouvons élaborer des programmes à la carte : des formations de base pour le grand public jusqu'à des parcours prédagogiques pour professionnels de l'information évoluant dans des environnements répressifs.</p>
+    </header>
+  {% for item in site_items %} 
+    <article role="article" class="post-item">
+        <a class="info" href="{{ item.url | prepend: site.baseurl }}">
+            <div>
+                <span class="detail1">
+                    {{ item.order }}
+                </span>
+                <span class="detail2">
+                    {{ item.type }},&nbsp;{{ item.duree }}
+                </span>
+            </div>
+        </a>
+        <div class="content">
+          <a href="{{ item.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ item.title }}</h2></a>
+          <p class="description">
+             {{ item.description | strip_html }}
+             <a href="{{ item.url | prepend: site.baseurl }}" class="link">{{ site.t[page.lang].readnext}}</a>.
+          </p>
+        <div class="tags">
+          {% for tag in item.tags %}
+              <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+
+  {% assign site_items = site.formations | where: "category", cat2  %}
+    <header class="collection">
+      <h2 id="{{ cat2 | slugify: "latin" }}">{{ cat2 }}</h2>
+      <p>L'OSINT ou  Open source intelligence est l'ensemble des outils et méthodes permettant d'interroger des sources ouvertes en ligne.</p>
+    </header>
+  {% for item in site_items %} 
+    <article role="article" class="post-item">
+        <a class="info" href="{{ item.url | prepend: site.baseurl }}">
+            <div>
+                <span class="detail1">
+                    {{ item.order }}
+                </span>
+                <span class="detail2">
+                    {{ item.type }},&nbsp;{{ item.duree }}
+                </span>
+            </div>
+        </a>
+        <div class="content">
+          <a href="{{ item.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ item.title }}</h2></a>
+          <p class="description">
+             {{ item.description | strip_html }}
+             <a href="{{ item.url | prepend: site.baseurl }}" class="link">{{ site.t[page.lang].readnext}}</a>.
+          </p>
+        <div class="tags">
+          {% for tag in item.tags %}
+              <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+
+</main>

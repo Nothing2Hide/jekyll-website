@@ -1,0 +1,79 @@
+---
+id: 1157
+title: Trainings
+author: Nothing2Hide
+layout: page
+lang: en
+order: 2
+categories: [home]
+description: "Nothing2Hide provides trainings related to <a href=\"#digital-safety\">Digital Safety</a>> and <a href=\"#online-investigation\">Online Investigation</a>."
+permalink: /en/catalog-trainings/
+---
+
+{% assign cat1 = "Digital Safety" %}
+{% assign cat2 = "Online Investigation" %}
+<main id="scroll" class="home">
+{% assign site_items = site.trainings | where: "category", cat1 %}
+<header class="collection">
+  <h2 id="{{ cat1 | slugify: "latin" }}">{{ cat1 }}</h2>
+  <p>Our digital security training courses are organized in 8 progressive modules of 2 to 3 hours each. We can develop tailor-made programmes: from basic training for the general public to pedagogical courses for information professionals working in repressive environments.</p>
+</header>
+{% for item in site_items %} 
+  <article role="article" class="post-item">
+      <a class="info" href="{{ item.url | prepend: site.baseurl }}">
+          <div>
+              <span class="detail1">
+                  {{ item.order }}
+              </span>
+              <span class="detail2">
+                  {{ item.type }},&nbsp;{{ item.duree }}
+              </span>
+          </div>
+      </a>
+      <div class="content">
+        <a href="{{ item.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ item.title }}</h2></a>
+        <p class="description">
+           {{ item.description | strip_html }}
+           <a href="{{ item.url | prepend: site.baseurl }}" class="link">{{ site.t[page.lang].readnext}}</a>.
+        </p>
+      <div class="tags">
+        {% for tag in item.tags %}
+            <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </article>
+{% endfor %}
+
+{% assign site_items = site.trainings | where: "category", cat2 %}
+<header class="collection">
+  <h2 id="{{ cat2 | slugify: "latin" }}">{{ cat2 }}</h2>
+  <p>OSINT or Open source intelligence is the set of tools and methods used to query open sources online.</p>
+</header>
+{% for item in site_items %} 
+  <article role="article" class="post-item">
+      <a class="info" href="{{ item.url | prepend: site.baseurl }}">
+          <div>
+              <span class="detail1">
+                  {{ item.order }}
+              </span>
+              <span class="detail2">
+                  {{ item.type }},&nbsp;{{ item.duree }}
+              </span>
+          </div>
+      </a>
+      <div class="content">
+        <a href="{{ item.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ item.title }}</h2></a>
+        <p class="description">
+           {{ item.description | strip_html }}
+           <a href="{{ item.url | prepend: site.baseurl }}" class="link">{{ site.t[page.lang].readnext}}</a>.
+        </p>
+      <div class="tags">
+        {% for tag in item.tags %}
+            <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </article>
+{% endfor %}
+</main>

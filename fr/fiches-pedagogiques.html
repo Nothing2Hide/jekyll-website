@@ -1,0 +1,78 @@
+---
+layout: page
+title: Fiches pédagogiques
+lang: "fr"
+permalink: /fr/fiches-pedagogiques/
+description: "Nous publions des fiches pédagogiques autour de deux thèmes : <a href=\"#les-donnees-a-l-ere-d-internet\">les données à 'heure d’Interne</a> et <a href=\"#s-informer-sur-internet\">s'informer sur Internet</a>. Ces fiches sont publiées sous licence creative commons et sont librement réutilisables. Nous vous invitons à les utiliser pour animer des ateliers et conférences au sein de votre association, de votre école, de votre bibliothèque."
+---
+{% assign cat1 = "Les données à l'ère d'Internet" %}
+{% assign cat2 = "S'informer sur Internet" %}
+<main id="scroll" class="home">
+  {% assign site_items = site.fiches-pedagogiques | where:"lang", page.lang | where:"category", cat1 %}
+  <header class="collection">
+    <h2 id="{{ cat1 | slugify: "latin" }}">{{ cat1 }}</h2>
+  </header>
+  {% for item in site_items %}
+    <article role="article" class="post-item">
+      <a class="info" href="{{ formation.url | prepend: site.baseurl }}">
+          <div>
+              <span class="detail1">
+                  {{ item.duree }}
+              </span>
+              <span class="detail2">
+                  {{ item.public }}
+              </span>
+          </div>
+      </a>
+      <div class="content">
+          <a href="{{ item.url | prepend: site.baseurl }}"><h3 class="post-title" itemprop="name">{{ item.title }}</h3></a>
+          <p class="description">
+              {{ item.description }}
+              <a href="{{ formation.url | prepend: site.baseurl }}" class="link">Lire la suite</a>.
+          </p>
+          {% comment %}
+          <div class="tags">
+              {% for tag in post.tags %}
+                  <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
+              {% endfor %}
+          </div>
+          {% endcomment %}
+      </div>
+    </article>
+  {% endfor %}
+
+  
+  {% assign site_items = site.fiches-pedagogiques | where:"lang", page.lang | where:"category", cat2 %}
+  <header class="collection">
+    <h2 id="{{ cat2 | slugify: "latin" }}">{{cat2}}</h2>
+    <p>Nous vous invitons à les utiliser pour animer des ateliers et conférences au sein de votre   association, de votre école, de votre bibliothèque. Ces fiches sont publiées - comme tous les contenus produits par l'association - sous licence creative commons et sont librement réutilisables.</p>  
+  </header>
+  {% for item in site_items %}
+    <article role="article" class="post-item">
+      <a class="info" href="{{ formation.url | prepend: site.baseurl }}">
+          <div>
+              <span class="detail1">
+                  {{ item.duree }}
+              </span>
+              <span class="detail2">
+                  {{ item.public }}
+              </span>
+          </div>
+      </a>
+      <div class="content">
+          <a href="{{ item.url | prepend: site.baseurl }}"><h3 class="post-title" itemprop="name">{{ item.title }}</h3></a>
+          <p class="description">
+              {{ item.description }}
+              <a href="{{ formation.url | prepend: site.baseurl }}" class="link">Lire la suite</a>.
+          </p>
+          {% comment %}
+          <div class="tags">
+              {% for tag in post.tags %}
+                  <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
+              {% endfor %}
+          </div>
+          {% endcomment %}
+      </div>
+    </article>
+  {% endfor %}
+</main>

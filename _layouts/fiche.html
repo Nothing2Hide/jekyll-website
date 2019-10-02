@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        {% include svg-icons.html %}
+        {% include header-collection-item.html %}
+        <section>
+
+            <article role="article" id="scroll" class="post-content" role="main">
+              {{ content }}
+              {% include vdn.html %}
+            </article>
+
+            {% include footer.html %}
+        </section>
+    </body>
+</html>
