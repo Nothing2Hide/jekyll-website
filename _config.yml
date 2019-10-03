@@ -1,7 +1,7 @@
 # Site settings
 title: Nothing2Hide
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://nothing2hide2.local" # the base hostname & protocol for your site e.g.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.barbayellow.com/" # the base hostname & protocol for your site e.g.
 
 plugins:
   - jekyll-feed 
@@ -54,8 +54,6 @@ t:
         url: "/fr/formations/"
       - title: "Fiches pédagogiques"
         url: "/fr/fiches-pedagogiques/"
-      - title: "Nos projets"
-        url: "/fr/projets/"
       - title: "Nous soutenir"
         url: "/fr/faire-un-don/"
       - title: "Qui sommes-nous"
