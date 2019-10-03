@@ -3,14 +3,20 @@ layout: page
 title: Fiches pédagogiques
 lang: "fr"
 permalink: /fr/fiches-pedagogiques/
-description: "Nous publions des fiches pédagogiques autour de deux thèmes : <a href=\"#les-donnees-a-l-ere-d-internet\">les données à 'heure d’Interne</a> et <a href=\"#s-informer-sur-internet\">s'informer sur Internet</a>. Ces fiches sont publiées sous licence creative commons et sont librement réutilisables. Nous vous invitons à les utiliser pour animer des ateliers et conférences au sein de votre association, de votre école, de votre bibliothèque."
+description: "Nous publions des fiches pédagogiques autour de deux thèmes : <a href=\"#les-donnees-a-l-ere-d-internet\">Les données à 'heure d’Interne</a> et <a href=\"#s-informer-sur-internet\">S'informer sur Internet</a>. Ces fiches sont publiées sous licence creative commons et sont librement réutilisables. Nous vous invitons à les utiliser pour animer des ateliers et conférences au sein de votre association, de votre école, de votre bibliothèque."
 ---
-{% assign cat1 = "Les données à l'ère d'Internet" %}
-{% assign cat2 = "S'informer sur Internet" %}
+
+{% assign cat1 = "S'informer sur Internet" %}
+{% assign cat2 = "Les données à l'ère d'Internet" %}
 <main id="scroll" class="home">
   {% assign site_items = site.fiches-pedagogiques | where:"lang", page.lang | where:"category", cat1 %}
   <header class="collection">
     <h2 id="{{ cat1 | slugify: "latin" }}">{{ cat1 }}</h2>
+    <p>Avec l’avènement du numérique, il est devenu impossible de ne pas contribuer à la génération de
+données - data - numériques. Comprendre comment elles sont collectées et les usages qui en sont faits
+est un enjeu sociétal majeur. Ces fiches vous permettront d'animer des ateliers permettant de'apréhender ce qu’est la data, comment elle
+est générée,  comment on peut croiser de grands ensembles de données pour “​ les faire parler ​ ”, mais aussi
+comment apprendre à protéger sa vie privée sur Internet</p>
   </header>
   {% for item in site_items %}
     <article role="article" class="post-item">
@@ -45,7 +51,11 @@ description: "Nous publions des fiches pédagogiques autour de deux thèmes : <a
   {% assign site_items = site.fiches-pedagogiques | where:"lang", page.lang | where:"category", cat2 %}
   <header class="collection">
     <h2 id="{{ cat2 | slugify: "latin" }}">{{cat2}}</h2>
-    <p>Nous vous invitons à les utiliser pour animer des ateliers et conférences au sein de votre   association, de votre école, de votre bibliothèque. Ces fiches sont publiées - comme tous les contenus produits par l'association - sous licence creative commons et sont librement réutilisables.</p>  
+    <p>Le débat public et la diffusion d’idées ne peuvent plus être décorrélés du numérique et d’Internet.
+Comprendre les mécanismes de la création de l’information sur Internet, savoir chercher, trier, croiser et
+vérifier les informations, mais aussi contribuer au débat en ligne sont des compétences essentielles pour
+prendre sa place de citoyen aujourd’hui. Ces fiches vont vous aider à décrypter de façon ludique les mécanismes du
+web pour permettre aux participants de se les approprier, et de les réinvestir dans d’autres contextes.</p>  
   </header>
   {% for item in site_items %}
     <article role="article" class="post-item">
