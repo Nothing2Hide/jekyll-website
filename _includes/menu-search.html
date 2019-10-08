@@ -16,12 +16,8 @@
   <h2>MENU</h2>
   <ul>
   {% for link in site.t.[page.lang].menu-main %}
-    {% if link.external %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-    {% else %}
-      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
-    {% endif %}
-    {% endfor %}  
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}  
   </ul>
 </nav>
 </aside>
