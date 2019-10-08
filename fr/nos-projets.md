@@ -4,7 +4,7 @@ title: "Nos projets"
 lang: "fr"
 categories: [home]
 order: 2
-permalink: /fr/projets
+permalink: /fr/projets/
 description: "Nothing2Hide intervient dans 8 pays (France, Suède, Indonésie, Burkina Faso, Tanzanie, Turquie, Ghana) pour des missions de soutien média, de renforcement de capacité et de formation à la sécurité numérique. Découvrez nos projets."
 ---
 
