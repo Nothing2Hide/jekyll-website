@@ -9,7 +9,6 @@ category:
   - Sécurité numérique
 description: "Les bases de l'hygiène numérique : savoir créer des mots de passe solides, apprendre à protéger ses périphériques et ses  comptes en ligne."
 permalink: /fr/formations/securite-numerique-les-bases
-slides: https://nothing2hide.org/slides/atelier-bases.html
 ---
 
   - {{ page.type }}, 10 à 20 personnes
