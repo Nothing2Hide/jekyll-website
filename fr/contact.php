@@ -38,9 +38,9 @@ if(isset($_POST['submit'])){
       /* @var SimpleMail $mail */
       $mail = SimpleMail::make()
           ->setTo('{{site.email}}', '{{site.title}}')
-          ->setSubject("Nothing2Hide.org : " . strtolower($_POST['subject']))
-          ->setFrom($email, 'sender')
-          ->setReplyTo($email, 'Mail Bot')
+          ->setSubject("Via Nothing2Hide.org : " . strtolower($_POST['subject']))
+          ->setFrom($email, $name)
+          ->setReplyTo($email, $name)
           //->setCc(['Recipient 2' => 'test2@example.com', 'Recipient 3' => 'test3@example.com'])
           //->setBcc(['Recipient 4' => 'test4@example.com'])
           ->addGenericHeader('X-Mailer', 'PHP/' . phpversion())
