@@ -361,6 +361,10 @@ table td {
 .post-list .entry-date {
  float:right;
 }
+/* contact form */
+#form #url {
+  display: none;
+}
 @media only screen and (max-width:37.5rem) {
  .post-list .entry-date {
   display:none
