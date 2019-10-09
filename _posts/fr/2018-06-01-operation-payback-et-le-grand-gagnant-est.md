@@ -17,13 +17,13 @@ categories:
 
 Les votes ont commencé le 12 mai et se sont achevés le 16 mai à minuit. Les résultats du sondage ont été analysés _<bullshitfrenctehcstaïle>par les meilleurs data scientists de la place de Paris, à coup d&rsquo;IA de deep learning et de blockchain</bullshitfrenctehcstaïle>_ et après un export csv vers libre office et un  nettoyage des IP des petits malins qui ont voté 35 fois pour le même soft à 3 secondes d&rsquo;intervalle, nous sommes en mesure d&rsquo;annoncer que l&rsquo;heureux gagnant de l&rsquo;opération payback est :
 
-<img class="alignnone wp-image-1517 size-full" src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/04/tails-logo.png" alt="Tails" width="500" height="257" srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/04/tails-logo.png 500w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/04/tails-logo-300x154.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/04/tails-logo-280x144.png 280w" sizes="(max-width: 500px) 100vw, 500px" /> 
+<img class="alignnone wp-image-1517 size-full" src="/assets/img/sites/3/2018/04/tails-logo.png" alt="Tails"/> 
 
 Nous leur reverserons donc 10% de notre budget ce qui correspond à la somme totalement indécente de de **500 €.**  500 € c&rsquo;est pas le Pérou mais nous soutenons Tails  à hauteur de nos moyens. Par ailleurs, Tails fait partie des logiciels que Nothing2Hide recommande, installe et distribue lors des formations à la sécurité numérique. Il y a bien des façons de contribuer au monde du logiciel libre, le soutien financier en est une parmi de nombreuses autres.
 
 Au passage on salue le travail indispensable  accompli par la communauté autour de ce logiciel, bravo et continuez !
 
-<img class="alignnone size-full wp-image-1905" src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/kcaito.jpg" alt="" width="500" height="500" srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/kcaito.jpg 500w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/kcaito-150x150.jpg 150w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/kcaito-300x300.jpg 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/kcaito-160x160.jpg 160w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/kcaito-100x100.jpg 100w" sizes="(max-width: 500px) 100vw, 500px" /> 
+<img class="alignnone size-full wp-image-1905" src="/assets/img/sites/3/2018/06/kcaito.jpg" alt="" width="500" height="500" srcset="/assets/img/sites/3/2018/06/kcaito.jpg 500w, /assets/img/sites/3/2018/06/kcaito-150x150.jpg 150w, /assets/img/sites/3/2018/06/kcaito-300x300.jpg 300w, /assets/img/sites/3/2018/06/kcaito-160x160.jpg 160w, /assets/img/sites/3/2018/06/kcaito-100x100.jpg 100w" sizes="(max-width: 500px) 100vw, 500px" /> 
 
 À toutes fins utiles nous remettons ci-dessous la liste des logiciels du sondage ainsi que les liens vers les pages de dons, des fois que d&rsquo;autres associations, ONG ou entreprises voudraient également leur apporter leur soutien.
 
@@ -98,5 +98,3 @@ Au passage on salue le travail indispensable  accompli par la communauté autou
     </td>
   </tr>
 </table>
-
-&nbsp;

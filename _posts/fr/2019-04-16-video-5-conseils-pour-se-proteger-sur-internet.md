@@ -15,7 +15,7 @@ mf2_syndication:
   - 'a:1:{i:0;s:59:"https://twitter.com/N0thing2Hide/status/1118114089606184960";}'
 enclosure:
   - |
-    https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/04/brut-5conseils2.mp4
+    /assets/img/sites/3/2019/04/brut-5conseils2.mp4
     6445676
     video/mp4
     
@@ -31,7 +31,7 @@ categories:
 
 
 
-<!--more--><figure class="wp-block-video"><video width="600" controls src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/04/brut-5conseils2.mp4"></video><figcaption>
+<!--more--><figure class="wp-block-video"><video width="600" controls src="/assets/img/sites/3/2019/04/brut-5conseils2.mp4"></video><figcaption>
 
   
 </figcaption></figure> 

@@ -8,10 +8,10 @@ permalink: /fr/guide-de-protection-numerique/
 description: "Des conseils de base jusqu&rsquo;au chiffrement de vos communications en passant par les précautions à prendre lors de la couverture d&rsquo;un événement, notre Guide de protection numérique vous aidera à protéger vos informations en toutes circonstances."
 ---
 
-Disponible [sous forme de Wiki](https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:start) et au [format PDF en version imprimable]({{ site.url }}/fr/wp-content/uploads/sites/3/2019/08/guide-protection-numerique-2019.pdf) (4,6 Mo) ce guide est le fruit du travail et de l'expériences des formateurs de Nothing2Hide et de leurs réseaux.
+Disponible [sous forme de Wiki](https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:start) et au [format PDF en version imprimable](/assets/img/sites/3/2019/08/guide-protection-numerique-2019.pdf) (4,6 Mo) ce guide est le fruit du travail et de l'expériences des formateurs de Nothing2Hide et de leurs réseaux.
 
 <figure>
-<a href="{{ site.url }}/fr/wp-content/uploads/sites/3/2019/08/guide-protection-numerique-2019.pdf"><img src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/07/guide-protect-internet-min-211x300.png" style="width:300px" alt="téléchargez le guide de protection numérique"></a>
+<a href="/assets/img/sites/3/2019/08/guide-protection-numerique-2019.pdf"><img src="/assets/img/sites/3/2019/07/guide-protect-internet.png" style="width:300px" alt="téléchargez le guide de protection numérique"></a>
 </figure>
 
 Vous y trouverez :

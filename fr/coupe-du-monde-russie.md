@@ -38,13 +38,13 @@ En juin et juillet prochain aura lieu la 21e coupe du monde de football. À cett
 Nothing2Hide explique au micro de l&rsquo;émission [l&rsquo;atelier des médias](http://www.rfi.fr/emission/20180616-technologie-internet-droits-humains-nothing2hide-forbidden-stories-forensic) sur RFI, les conseils  à suivre pour protéger ses données pendant la coupe du monde en Russie.
 
 <div style="width: 640px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-1472-3" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/conseils-coupe-du-monde.m4v?_=3" /><a href="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/conseils-coupe-du-monde.m4v">https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/conseils-coupe-du-monde.m4v</a></video>
+  <video class="wp-video-shortcode" id="video-1472-3" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="/assets/img/sites/3/2018/06/conseils-coupe-du-monde.m4v?_=3" /><a href="/assets/img/sites/3/2018/06/conseils-coupe-du-monde.m4v">/assets/img/sites/3/2018/06/conseils-coupe-du-monde.m4v</a></video>
 </div>
 
-[Téléchargez le fichier audio (mp3)](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/coupedumonde.mp3)
+[Téléchargez le fichier audio (mp3)](/assets/img/sites/3/2018/06/coupedumonde.mp3)
 
 ### Ils nous soutiennent
 
-<img class="alignnone size-full wp-image-1945" src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/FIDH-e1528451884724.jpg" alt="" width="140" height="55" />  <img class="alignnone size-full wp-image-1943" src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/cfj.png" alt="" width="300" height="55" srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/cfj.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/06/cfj-280x51.png 280w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<img class="alignnone size-full wp-image-1945" src="/assets/img/sites/3/2018/06/FIDH-e1528451884724.jpg" alt="" width="140" height="55" />  <img class="alignnone size-full wp-image-1943" src="/assets/img/sites/3/2018/06/cfj.png" alt="" width="300" height="55" srcset="/assets/img/sites/3/2018/06/cfj.png 300w, /assets/img/sites/3/2018/06/cfj-280x51.png 280w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
-[Téléchargez la plaquette « Coupe du monde »  (PDF HD)](https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/06/coupe-du-monde-HD.pdf)
+[Téléchargez la plaquette « Coupe du monde »  (PDF HD)](/assets/img/sites/2/2018/06/coupe-du-monde-HD.pdf)

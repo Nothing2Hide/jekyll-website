@@ -21,4 +21,4 @@ Pour concilier protection des savoirs et savoir faire avec nos libertés, la coa
 
 La coalition compte sur le conseil constitutionnel pour faire respecter les équilibres fondamentaux et garantir le respect des libertés, pilier de notre démocratie.
 
-Consulter le texte de la [saisine  du conseil constitutionnel.](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2018/07/conseil-constit-saisine.pdf)
+Consulter le texte de la [saisine  du conseil constitutionnel.](/assets/img/sites/3/2018/07/conseil-constit-saisine.pdf)

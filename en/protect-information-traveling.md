@@ -40,8 +40,8 @@ If you are a journalist, a activist or a human right defenders, you may be the s
 
 ## They support us<figure class="wp-block-image">
 
-<img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/06/FIDH-e1528532266874.jpg" alt="" class="wp-image-1320" /> </figure> <figure class="wp-block-image"><img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/06/cfj.png" alt="" class="wp-image-1321" srcset="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/06/cfj.png 300w, https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/06/cfj-280x51.png 280w" sizes="(max-width: 300px) 100vw, 300px" /></figure> 
+<img src="/assets/img/sites/2/2018/06/FIDH-e1528532266874.jpg" alt="" class="wp-image-1320" /> </figure> <figure class="wp-block-image"><img src="/assets/img/sites/2/2018/06/cfj.png" alt="" class="wp-image-1321" srcset="/assets/img/sites/2/2018/06/cfj.png 300w, /assets/img/sites/2/2018/06/cfj-280x51.png 280w" sizes="(max-width: 300px) 100vw, 300px" /></figure> 
 
-[Download the printable version (PDF HR)](https://nothing2hide.org/en/wp-content/uploads/sites/2/2019/05/nothing2hide_plaquette_traits.pdf) 
+[Download the printable version (PDF HR)](/assets/img/sites/2/2019/05/nothing2hide_plaquette_traits.pdf) 
 
 _Bonus: this guide,&nbsp; as well as all the content hosted on our websites, is released under CC BY 3.0_

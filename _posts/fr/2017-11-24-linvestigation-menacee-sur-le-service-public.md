@@ -10,7 +10,7 @@ id: https://nothing2hide.org/?p=418
 permalink: /fr/2017/11/24/linvestigation-menacee-sur-le-service-public/
 enclosure:
   - |
-    https://nothing2hide.org/fr/wp-content/uploads/sites/3/2017/11/balkany-cde.m4v
+    /assets/img/sites/3/2017/11/balkany-cde.m4v
     269832
     video/mp4
     
@@ -53,9 +53,9 @@ Soutenir Envoyé Spécial et Complément d&rsquo;enquête c&rsquo;est soutenir l
 Relayez l&rsquo;info sur twitter (suivez lecompte [TPmonInfo](https://twitter.com/tpmoninfo) et taguez [#touchepasmoninfo](https://twitter.com/hashtag/Touchepasmoninfo?src=hash)), [Facebook](http://touchepasmon.info/), Instagram bref, faites du bruit. Contactez France Télévisions et faites leur part de votre <del>mécontentement</del> stupéfaction en tant que contribuables de l&rsquo;audiovisuel public. Mais ne laissons pas ces émissions disparaître.
 
 <div style="width: 640px;" class="wp-video">
-  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-418-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2017/11/balkany-cde.m4v?_=1" />
+  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-418-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="/assets/img/sites/3/2017/11/balkany-cde.m4v?_=1" />
   
-  <a href="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2017/11/balkany-cde.m4v">https://nothing2hide.org/fr/wp-content/uploads/sites/3/2017/11/balkany-cde.m4v</a></video>
+  <a href="/assets/img/sites/3/2017/11/balkany-cde.m4v">/assets/img/sites/3/2017/11/balkany-cde.m4v</a></video>
 </div>
 
 Ne donnons pas raison à Patrick Balkany

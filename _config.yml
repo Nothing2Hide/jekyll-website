@@ -1,11 +1,8 @@
 # Site settings
 title: Nothing2Hide
 
-# baseurl: "" # the subpath of your site, e.g. blog/
-# url: "https://nothing2hide.org"  # the base hostname & protocol for your site e.g.
-
 baseurl: "" # the subpath of your site, e.g. blog/
-url: "http://n2h2.local"  # the base hostname & protocol for your site e.g.
+url: "https://nothing2hide.org"  # the base hostname & protocol for your site e.g.
 
 plugins:
   - jekyll-feed 

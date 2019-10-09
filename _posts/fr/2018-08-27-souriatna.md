@@ -24,20 +24,20 @@ En février dernier, Jawad, le fondateur et rédacteur en chef de Souriatna, nou
 
 Souriatna collabore fréquemment avec des médias étrangers. En 2016 Libération a publié en une l&rsquo;une des couvertures de Souriatna.<figure class="wp-block-image">
 
-[<img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-cover1.jpg" alt="" class="wp-image-1356" />](https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-cover1.jpg)</figure> 
+[<img src="/assets/img/sites/2/2018/08/tk-cover1.jpg" alt="" class="wp-image-1356" />](/assets/img/sites/2/2018/08/tk-cover1.jpg)</figure> 
 
 L&rsquo;une des spécificités de Souriatna, ce sont ses couvertures chocs.  
 
 
 <ul class="wp-block-gallery columns-3 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-cover5.png" alt="" data-id="1360" data-link="https://nothing2hide.org/en/tk-cover5/" class="wp-image-1360" /></figure>
+    <figure><img src="/assets/img/sites/2/2018/08/tk-cover5.png" alt="" data-id="1360" data-link="https://nothing2hide.org/en/tk-cover5/" class="wp-image-1360" /></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-cover4.png" alt="" data-id="1359" data-link="https://nothing2hide.org/en/tk-cover4/" class="wp-image-1359" /></figure>
+    <figure><img src="/assets/img/sites/2/2018/08/tk-cover4.png" alt="" data-id="1359" data-link="https://nothing2hide.org/en/tk-cover4/" class="wp-image-1359" /></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-cover3.png" alt="" data-id="1358" data-link="https://nothing2hide.org/en/tk-cover3/" class="wp-image-1358" /></figure>
+    <figure><img src="/assets/img/sites/2/2018/08/tk-cover3.png" alt="" data-id="1358" data-link="https://nothing2hide.org/en/tk-cover3/" class="wp-image-1358" /></figure>
   </li>
 </ul>
 
@@ -46,7 +46,7 @@ L&rsquo;une des spécificités de Souriatna, ce sont ses couvertures chocs.
 
 Les menaces contre Souriatna ont commencées début 2015 après que l&rsquo;hebdomadaire ait fait sa une avec le fameux « Je suis Charlie » affichant clairement son soutien à Charlie Hebdo .<figure class="wp-block-image">
 
-<img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-cover2.jpg" alt="" class="wp-image-1357" /> <figcaption>La Une « Je suis Charlie » de Souritana</figcaption></figure> 
+<img src="/assets/img/sites/2/2018/08/tk-cover2.jpg" alt="" class="wp-image-1357" /> <figcaption>La Une « Je suis Charlie » de Souritana</figcaption></figure> 
 
 Le site web a été piraté pour la première fois au début de cette année là. Il a été de nouveau piraté en 2016 et a été rendu indisponible pendant trois mois. L&rsquo;équipe a réussi à remettre le site en ligne mais a perdu au passage l&rsquo;ensemble de ses archives.
 
@@ -83,10 +83,10 @@ Le cas de Souriatna est emblématique de la façon dont nous faisons vivre note 
 
 <ul class="wp-block-gallery columns-1 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><a href="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/IMG_2953.jpg"><img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/IMG_2953.jpg" alt="" data-id="1368" data-link="https://nothing2hide.org/en/?attachment_id=1368" class="wp-image-1368" /></a></figure>
+    <figure><a href="/assets/img/sites/2/2018/08/IMG_2953.jpg"><img src="/assets/img/sites/2/2018/08/IMG_2953.jpg" alt="" data-id="1368" data-link="https://nothing2hide.org/en/?attachment_id=1368" class="wp-image-1368" /></a></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><a href="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-sanitizer1.jpg"><img src="https://nothing2hide.org/en/wp-content/uploads/sites/2/2018/08/tk-sanitizer1.jpg" alt="" data-id="1364" data-link="https://nothing2hide.org/en/tk-sanitizer1/" class="wp-image-1364" /></a></figure>
+    <figure><a href="/assets/img/sites/2/2018/08/tk-sanitizer1.jpg"><img src="/assets/img/sites/2/2018/08/tk-sanitizer1.jpg" alt="" data-id="1364" data-link="https://nothing2hide.org/en/tk-sanitizer1/" class="wp-image-1364" /></a></figure>
   </li>
 </ul>
 

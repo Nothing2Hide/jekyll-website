@@ -31,7 +31,7 @@ Le panel de cette table ronde était composé de &#8211; excusez du peu &#8211; 
 
 Youtube a fait exactement le contraire. [Un récent article de Bloomberg](http://www.bnnbloomberg.ca/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant-1.1238193) explique que la plateforme a sciemment laissé se propager des vidéos conspirationnistes pour attendre des objectifs d&rsquo;audience. En effet, c&rsquo;est rarement la vidéo d&rsquo;un type expliquant les principes de la physique quantique qui obtient le plus de vues sur Youtube mais plutôt celle d&rsquo;un type expliquant que les attentats du 11 septembre sont un complot de la judéo-maçonnerie internationale, que Notre Dame a été brûlée sciemment par Macron et son équipe pour éviter d&rsquo;avoir à faire des annonces impopulaires ou je ne sais quel autre délire impliquant lézardiens ou extra-terrestres. <figure class="wp-block-image">
 
-[<img src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/06/bloomberg.png" alt="" class="wp-image-3985" />](https://www.bnnbloomberg.ca/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant-1.1238193)</figure> 
+[<img src="/assets/img/sites/3/2019/06/bloomberg.png" alt="" class="wp-image-3985" />](https://www.bnnbloomberg.ca/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant-1.1238193)</figure> 
 
 Pire, alors des employés de chez Google conscients du problème avaient proposé des solutions concrètes pour mettre fin à la diffusion virale de ces vidéos, le top management de Youtube a jugé bon de ne rien faire et de demander à ces employés un peu moins embrigadé que le Googler moyen de « ne pas faire de vagues ».
 

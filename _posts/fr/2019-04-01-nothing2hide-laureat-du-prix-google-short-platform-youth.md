@@ -22,7 +22,7 @@ C&rsquo;est avec beaucoup d&rsquo;émotion que nous annonçons que Nothing2Hide 
 
 Ce prix nous honore et nous permettra de continuer à mener nos projets grâce à une bourse de 180 000 dollars. En échange Nothing2Hide s&rsquo;engage à assurer la promotion des outils Google lors de ses formations, [outils qui certes portent atteinte à la vie privée de ses utilisateurs mais qui apportent en revanche un niveau de sécurité très élevé, pour peu que l&rsquo;on fasse confiance à Google](https://nothing2hide.org/fr/2019/01/16/il-ny-a-aucun-probleme-ni-avec-facebook-ni-avec-google/). <figure class="wp-block-image">
 
-<img src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/01/google_logo_animatedl.gif" alt="" class="wp-image-2636" /> <figcaption>Heureux d&rsquo;avoir remporté le Google SPY award</figcaption></figure> 
+<img src="/assets/img/sites/3/2019/01/google_logo_animatedl.gif" alt="" class="wp-image-2636" /> <figcaption>Heureux d&rsquo;avoir remporté le Google SPY award</figcaption></figure> 
 
 Nous allons également bénéficier d&rsquo;un mentoring dispensé par les services marketing de Google pour nous aider à mener la stratégie de notre association. Nous sommes ravis de pouvoir nous appuyer sur des équipes aussi efficaces qui connaissent presque le terrain et presque les problématiques des journalistes et défenseurs des droits humains. Ce n&rsquo;est pas parce qu&rsquo;on passe sa journée le cul sur une chaise derrière des lignes de codes et des tableaux Excel à vendre des espaces pubs à des annonceurs qu&rsquo;on n&rsquo;a pas un avis sur la diffusion de l&rsquo;information.
 
