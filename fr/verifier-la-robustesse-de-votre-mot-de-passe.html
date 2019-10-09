@@ -1,0 +1,26 @@
+---
+title: Vérificateur de mot de passe
+date: 2017-10-10T17:48:47+02:00
+author: Nothing2Hide
+layout: page
+lang: fr
+---
+
+<div id="zxcvbn">
+
+  <p>Vous pouvez tester la robustesse de votre mot de passe grâce au formulaire ci-dessous. Il vous indique le temps nécessaire pour le craquer.</p>
+
+  <p>
+    <input id="password-box" name="password-box" type="password" />
+  </p>
+
+  <p id="explanation"></p>
+
+  <p>Si le résultat du test de votre mot de passe est catastrophique, consultez notre wiki pour apprendre à <a href="https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:lesbases#les_mots_de_passe">créer des mots de passe solides</a>.</p>
+
+
+  <p><small>Le code de ce vérificateur de mot de passe est basé sur celui de <a href="https://github.com/dropbox/zxcvbn">zxcvbn</a>.</small></p>
+
+</div>
+<script type='text/javascript' src='{{ site.url | append: site.baseurl }}/assets/js/zxcvbn.js'></script>
+<script type='text/javascript' src='{{ site.url | append: site.baseurl }}/assets/js/zxcvbn-setup.js'></script>

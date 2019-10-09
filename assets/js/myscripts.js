@@ -1,3 +1,4 @@
+// search script
 (function($) {
     $.fn.simpleJekyllSearch = function(options) {
         var settings = $.extend({
@@ -88,6 +89,7 @@
     }
 }(Zepto));
 
+// Scripts
 (function( $, window, undefined ) {
   // Menu
   $("a#slide").click(function(){
@@ -104,6 +106,35 @@
     $("#close").hide();
   });
 
+  // Newsletter
+  
+  if( $('#nln2h').length ) {
+    // masquer page mailman
+    /*
+    $("form#nln2h").submit(function(e) {
+      e.preventDefault();
+		 	var url = $(this).attr('action') + '?' + $(this).serialize();
+		 	//console.log(url);
+		 	$.get(url, function(r) {
+		     window.location = "/fr/merci-pour-votre-abonnement/";
+		 	});
+	 	});
+	 	*/
+	 	// onfocus
+	 	$("#nln2h input").focus(function(e) {
+			$(this).data('label', $(this).attr('value'));
+			$(this).val('');
+	 	});
+	 	
+	 	// onblur
+		$('#nln2h input').blur(function() {
+			if($(this).val()=='') {
+				$(this).val($(this).data('label'));
+			}
+		});
+	}
+  
+  
   // Search
   var bs = {
     close: $(".icon-remove-sign"),
