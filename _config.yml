@@ -9,6 +9,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+exclude:
+  - composer.*
+  - Gemfile*
+  - initpost.sh
+  - Readme.md
+
 # contact settings
 email: contact@nothing2hide.org
 twitter_username: n0thing2hide
