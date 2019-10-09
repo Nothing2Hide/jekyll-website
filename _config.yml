@@ -1,7 +1,11 @@
 # Site settings
 title: Nothing2Hide
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.barbayellow.com/" # the base hostname & protocol for your site e.g.
+
+# baseurl: "" # the subpath of your site, e.g. blog/
+# url: "https://nothing2hide.org"  # the base hostname & protocol for your site e.g.
+
+baseurl: "" # the subpath of your site, e.g. blog/
+url: "http://n2h2.local"  # the base hostname & protocol for your site e.g.
 
 plugins:
   - jekyll-feed 
@@ -65,6 +69,8 @@ t:
         url: "/fr/presse/"
       - title: "Le Wiki de l'asso"
         url: "https://nothing2hide.org/wiki/"
+      - title: "Vérificateur de mot de passe"
+        url: "/fr/verifier-la-robustesse-de-votre-mot-de-passe/"
       - title: "VPN"
         url: "/fr/guide-protection-numerique/proteger-son-trafic-web-et-internet-avec-un-vpn/"
       - title: Newsletter
@@ -99,8 +105,10 @@ t:
     send: "Send"
     readnext: "Read next"
 
-# form translations
+# form translations - cause pb de tableaux avec var jekyll
 error-email-fr: "Entrez un email valide"
-error-email-en: ""
+error-email-en: "Enter a valid email"
 error-name-fr: "Vous devez renseigner votre nom"
-error-name-en: ""
+error-name-en: "Enter a name please"
+error-msg-fr: "Bha, il faut nous envoyer un essage quand même ! Sinon on peut pas vous répondre !"
+error-msg-en: "Enter your message plz"
