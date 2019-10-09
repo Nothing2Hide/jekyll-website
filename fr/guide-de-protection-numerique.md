@@ -11,7 +11,7 @@ description: "Des conseils de base jusqu&rsquo;au chiffrement de vos communicati
 Disponible [sous forme de Wiki](https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:start) et au [format PDF en version imprimable](/assets/img/sites/3/2019/08/guide-protection-numerique-2019.pdf) (4,6 Mo) ce guide est le fruit du travail et de l'expériences des formateurs de Nothing2Hide et de leurs réseaux.
 
 <figure>
-<a href="/assets/img/sites/3/2019/08/guide-protection-numerique-2019.pdf"><img src="/assets/img/sites/3/2019/07/guide-protect-internet.png" style="width:300px" alt="téléchargez le guide de protection numérique"></a>
+<a href="/assets/img/sites/3/2019/08/guide-protection-numerique-2019.pdf"><img src="/assets/img/sites/3/2019/07/guide-protect-internet-min.png" style="width: 500px" alt="téléchargez le guide de protection numérique"></a>
 </figure>
 
 Vous y trouverez :
