@@ -4,7 +4,7 @@ id: 4463
 title: 'Nothing2Hide publie deux moocs sur la sécurité numérique'
 date: 2019-09-04T11:57:37+02:00
 author: Nothing2Hide
-description: "Nothing2Hide s'est fixé comme objectif d'aider ces publics à mieux sécuriser leurs données. Dans la droite ligne de cet objectif, nous nous sommes associés à Free Press Unlimited et GreenHost pour traduire et publier deux cours sur la sécurité numérique."
+description: "Nous nous sommes associés à Free Press Unlimited et GreenHost pour traduire et publier deux cours sur la sécurité numérique."
 layout: post
 id: https://nothing2hide.org/fr/?p=4463
 permalink: /fr/2019/09/04/nothing2hide-publie-deux-cours-gratuits-sur-la-securite-numerique-en-collaboration-avec-le-projet-totem/
