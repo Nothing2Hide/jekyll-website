@@ -3,7 +3,7 @@ layout: post
 title: "Le site de Nothing2Hide se met à la low tech"
 date: 2019-10-10 15:16:50
 image: '/assets/img/'
-description: "Le site de Nothing2Hide se refait une beauté et adopte le style low tech."
+description: "Le site de Nothing2Hide se refait une beauté et adopte l'esprit low-tech."
 lang: fr
 tags:
     - low-tech
