@@ -13,7 +13,7 @@ tags:
 categories: [News]
 ---
 
-Exit les bases sql, les CMS multisites et les redirections à coup de htacces volumineux. Vu le nombre de commentaires reçu via notre site, on s'est dit que nous n'avions pas forcément besoin d'un gros WordPress, et surtout <blague de silicon valley>qui fait encore du sql à en 2019 ?</blague de silicon valley>
+Exit les bases sql, les CMS multisites et les redirections à coup de htacces volumineux. Vu le nombre de commentaires reçu via notre site, on s'est dit que nous n'avions pas forcément besoin d'un gros WordPress, et surtout \<blague de silicon valley\>qui fait encore du sql à en 2019 ?\</blague de silicon valley\>
 
 ## L'avenir c'est le passé
 
