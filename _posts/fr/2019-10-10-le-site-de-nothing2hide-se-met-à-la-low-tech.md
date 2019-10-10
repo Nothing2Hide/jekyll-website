@@ -3,9 +3,13 @@ layout: post
 title: "Le site de Nothing2Hide se met à la low tech"
 date: 2019-10-10 15:16:50
 image: '/assets/img/'
-description: "Le site de NOthing2Hide se refait une beauté et adopte le style low tech."
-lang:
+description: "Le site de Nothing2Hide se refait une beauté et adopte le style low tech."
+lang: fr
 tags:
+    - low-tech
+    - Nothing2Hide
+    - Technologie
+    - L'association
 categories: [News]
 ---
 
