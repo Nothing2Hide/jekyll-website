@@ -24,7 +24,7 @@ permalink: /fr/actualites/
             <div class="content">
                 <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ post.title }}</h2></a>
                 <p class="description">
-                    {{ post.content | strip_html | truncatewords:40 }}
+                    {{ post.description | strip_html | truncatewords:40 }}
                     <a href="{{ post.url | prepend: site.baseurl }}" class="link">{{ site.t[page.lang].readnext}}</a>
                 </p>
 
