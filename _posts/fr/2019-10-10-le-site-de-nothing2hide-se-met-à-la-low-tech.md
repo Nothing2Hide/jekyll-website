@@ -29,5 +29,5 @@ Nous avons aussi réalisé cette refonte en gardant en tête le fait que notre s
 
 C'est l'esprit des réalisations de Nothing2Hide : des solutions faciles à utiliser, pérennes et accessibles à tous. 
 
-Pour fêter ce nouveau site, on a même mis en ligne un nouveau guide d'OSINT - écrit et publié par Tekk, qui nous fait aussi l'honneur d'être membre de Nothing2Hide (mais comment trouve-t-il le temps ?) - et une nouvelle fiche pédagogique sur le tracking publicitaire. On vous laisse apprécier et on attend vos commentaires sur [mastodon](https://mamot.fr/@nothing2hide).
+Pour fêter ce nouveau site, on a même mis en ligne un nouveau [guide d'OSINT](https://nothing2hide.org/fr/2019-09-18-guide-osint-2019/) - écrit et publié par Tekk, qui nous fait aussi l'honneur d'être membre de Nothing2Hide (mais comment trouve-t-il le temps ?) - et une nouvelle [fiche pédagogique sur le tracking publicitaire](https://nothing2hide.org/fr/fiches-pedagogiques/introduction-au-tracking-publicitaire/). On vous laisse apprécier et on attend vos commentaires sur [mastodon](https://mamot.fr/@nothing2hide).
 
