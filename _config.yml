@@ -66,11 +66,11 @@ t:
       - title: "Qui sommes-nous"
         url: "/fr/a-propos/"
     menu-footer1:
-      - title: "Nos partenaires"
+      - title: "Partenaires"
         url: "/fr/partenaires/"
       - title: "Presse"
         url: "/fr/presse/"
-      - title: "Le Wiki de l'asso"
+      - title: "Wiki"
         url: "https://nothing2hide.org/wiki/"
       - title: "Vérificateur de mot de passe"
         url: "/fr/verifier-la-robustesse-de-votre-mot-de-passe/"
