@@ -5,8 +5,8 @@ lang: "fr"
 categories: [home]
 order: 1
 description: "Nothing2Hide est une structure associative qui s’est donnée comme objectif d’offrir aux journalistes, avocats, militants des droits de l’homme, “simples” citoyens, les moyens de protéger leurs informations."
+permalink: /fr/a-propos/
 ---
-
 
 ## L&rsquo;association
 
