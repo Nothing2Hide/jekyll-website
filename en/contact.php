@@ -2,6 +2,7 @@
 title: Contact us
 layout: page
 lang: en
+permalink: /en/contact/
 ---
 
 <?php
@@ -85,8 +86,9 @@ if(isset($_POST['submit'])){
 <?php endif; ?>
 
 
-## PGP keys
+<h2>Contact us securely</h2>
 
-  * [gregoire [at] nothing2hide.org : `6A22 9E8D 916A 1C3C 80A6 E180 D1A6 2CFD 5851 9BC4`](http://pgp.mit.edu/pks/lookup?op=get&search=0xD1A62CFD58519BC4)
-  * [jm [at] nothing2hide.org : `74FC 93FD BCD6 1BEB 5AD9<br />
-7154 42E6 D09B 6DBC 227E`](http://pgp.mit.edu/pks/lookup?op=get&search=0x42E6D09B6DBC227E)
+<ul>
+	<li>gregoire [at] nothing2hide.org : <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0xD1A62CFD58519BC4">6A22 9E8D 916A 1C3C 80A6 E180 D1A6 2CFD 5851 9BC4</a></li>
+	<li>jm [at] nothing2hide.org : <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x42E6D09B6DBC227E">74FC 93FD BCD6 1BEB 5AD9 7154 42E6 D09B 6DBC 227E</a></li>
+</ul>
