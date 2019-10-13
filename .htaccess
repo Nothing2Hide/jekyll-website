@@ -6,6 +6,11 @@ RewriteEngine on
 RewriteRule ^fr/catalogue-formations/(.*)$ {{site.url}}{{site.baseurl}}/fr/formations/$1 [L,R=301]
 Redirect 301 /fr/formation/securite-numerique/ {{site.url}}{{site.baseurl}}/fr/formations/
 
+# Pegasus
+RewriteRule ^pegasus/(.*)$ https://pegasus.nothing2hide.org/$1 [L,R=301]
+
+# Slides
+RewriteRule ^slides/(.*)$ https://slides.nothing2hide.org/$1 [L,R=301]
 
 # fiches pedagogiques
 Redirect /fr/themes/sinformer-sur-internet/ /fr/fiches-pedagogiques/#s-informer-sur-internet

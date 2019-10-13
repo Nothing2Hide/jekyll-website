@@ -7,7 +7,6 @@
   <meta name="robots" content="index, follow" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title}} Flux RSS" href="{{ site.url | append: site.baseurl }}/{{ page.lang}}/feed.xml" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
-  {% if jekyll.environment == "production" %}
     {% if page.lang == "fr" %}
       <!-- Matomo fr -->
       <script type="text/javascript">
@@ -23,9 +22,9 @@
           g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
         })();
       </script>
-    <!-- End Matomo Code -->
+     <!-- End Matomo Code -->
     {% elsif page.lang == "fr" %}
-      <!-- Matomo -->
+      <!-- Matomo en -->
       <script type="text/javascript">
         var _paq = window._paq || [];
         /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -41,5 +40,4 @@
       </script>
       <!-- End Matomo Code -->
     {% endif %}
-  {% endif %}
 </head>
