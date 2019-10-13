@@ -74,7 +74,7 @@ Ces conseils ont trouvé en compagnie de Gemma un écho tout particulier puisque
 
 
 
-En plus de cet atelier officiel, Nothing2Hide a improvisé un petit déjeuner autour de la sécurité numérique (à 7h30 du matin !!) pendant lequel nous avons distribué et installé sur les postes de journalistes thaïlandais , vietnamiens, philippins et birmans des outils de contournement de la censure et des outils de chiffrement des données ([VPN](https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:vpn) et [Veracrypt](https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:veracrypt)). Nothing2Hide héberge en effet plusieurs serveurs VPN et distribue régulièrement des accès à des journalistes indépendants ou des défenseurs des droits humains au cours de formations et d&rsquo;événements.
+En plus de cet atelier officiel, Nothing2Hide a improvisé un petit déjeuner autour de la sécurité numérique (à 7h30 du matin !!) pendant lequel nous avons distribué et installé sur les postes de journalistes thaïlandais , vietnamiens, philippins et birmans des outils de contournement de la censure et des outils de chiffrement des données ([VPN](https://wiki.nothing2hide.org/doku.php?id=protectionnumerique:vpn) et [Veracrypt](https://wiki.nothing2hide.org/doku.php?id=protectionnumerique:veracrypt)). Nothing2Hide héberge en effet plusieurs serveurs VPN et distribue régulièrement des accès à des journalistes indépendants ou des défenseurs des droits humains au cours de formations et d&rsquo;événements.
 
 <blockquote class="twitter-tweet" data-width="525" data-dnt="true">
   <p lang="fr" dir="ltr">

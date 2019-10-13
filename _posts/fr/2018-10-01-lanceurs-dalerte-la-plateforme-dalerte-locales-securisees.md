@@ -23,7 +23,7 @@ Cette plateforme permet à des sources, lanceurs d&rsquo;alerte, citoyens, de tr
 La plate forme lanceur d&rsquo;enquêtes est accessible sur Internet à l&rsquo;adresse <https://www.mediacites.fr/pals> ainsi que sur le réseau Tor (qui n&rsquo;est pas &#8211; contrairement à [ce qu&rsquo;on peut entendre à l&rsquo;unesco](https://nothing2hide.org/fr/2017/09/17/unesco-darknet-arme-crime/) réservé aux terroristes et aux pédophiles mais qui par sa capacité à préserver l&rsquo;anonymat constitue un véritable outil d&rsquo;émancipation) à l&rsquo;adresse _cxvcujg3ukiolwqc.onion_.  
 
 
-En collaboration avec l&rsquo;équipe de Médiacités nous avons choisi Globaleaks, un outil libre &#8211; la défense et la promotion des logiciels libres font partie de  [nos engagements](https://nothing2hide.org/wiki/doku.php?id=asso:statuts#article_2_-_objet) &#8211; déjà utilisé dans de nombreuses rédactions. Le procédé de récupération des documents a été élaboré afin d&rsquo;assurer le meilleur équilibre entre facilité d&rsquo;utilisation et protection des données, conformément aux besoins énoncés par l&rsquo;équipe de Médiacités.  
+En collaboration avec l&rsquo;équipe de Médiacités nous avons choisi Globaleaks, un outil libre &#8211; la défense et la promotion des logiciels libres font partie de  [nos engagements](https://wiki.nothing2hide.org/doku.php?id=asso:statuts#article_2_-_objet) &#8211; déjà utilisé dans de nombreuses rédactions. Le procédé de récupération des documents a été élaboré afin d&rsquo;assurer le meilleur équilibre entre facilité d&rsquo;utilisation et protection des données, conformément aux besoins énoncés par l&rsquo;équipe de Médiacités.  
 
 
 ## Participation citoyenne

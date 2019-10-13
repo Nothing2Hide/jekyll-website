@@ -12,7 +12,7 @@ permalink: /fr/a-propos/
 
 Notre structure travaille sur la technologie comme moyen de favoriser la diffusion et la protection de l&rsquo;information. Nous animons des formations à la sécurité numérique et fournissons des outils de contournement de la censure. 
 
-Nothing2Hide a démarré en 2017. Elle compte une vingtaine de membres et est dirigée par un [Conseil d&rsquo;administration](https://nothing2hide.org/wiki/doku.php?id=ca:composition) composé de journalistes, avocats, militants, membres d’ONG. La transparence est une valeur cardinale pour nous. À ce titre, nous publions les comptes de l'association ainsi que les compte-rendu des conseils d'administration et des AG sur notre wiki.
+Nothing2Hide a démarré en 2017. Elle compte une vingtaine de membres et est dirigée par un [Conseil d&rsquo;administration](https://wiki.nothing2hide.org/doku.php?id=ca:composition) composé de journalistes, avocats, militants, membres d’ONG. La transparence est une valeur cardinale pour nous. À ce titre, nous publions les comptes de l'association ainsi que les compte-rendu des conseils d'administration et des AG sur notre wiki.
 
 ## Les fondateurs
 

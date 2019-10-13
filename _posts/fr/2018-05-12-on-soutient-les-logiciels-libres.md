@@ -18,7 +18,7 @@ Comme toute organisation travaillant sur  la protection de l&rsquo;information 
 
 Il est légitime que nous apportions à notre tour notre soutien à ceux qui développent et font vivre ces outils. Nous avons décidé de le faire à hauteur de nos moyens et allons reverser 500 € à l&rsquo;un des projets listés ci-dessous.
 
-500 € ça n&rsquo;a pas l&rsquo;air beaucoup, mais pour notre organisation c&rsquo;est une somme, 10% de [notre budget 2017](https://nothing2hide.org/wiki/doku.php?id=asso:comptes). On n&rsquo;est pas naïfs non plus et on sait bien qu&rsquo;avec 500 € on ne changera pas la donne.  Par contre on espère bien que toutes les organisations qui utilisent ou ont utilisé ces outils mettront elles aussi la main à la poche pour soutenir ces projets. Cela nous semble être la moindre des choses depuis le temps.
+500 € ça n&rsquo;a pas l&rsquo;air beaucoup, mais pour notre organisation c&rsquo;est une somme, 10% de [notre budget 2017](https://wiki.nothing2hide.org/doku.php?id=asso:comptes). On n&rsquo;est pas naïfs non plus et on sait bien qu&rsquo;avec 500 € on ne changera pas la donne.  Par contre on espère bien que toutes les organisations qui utilisent ou ont utilisé ces outils mettront elles aussi la main à la poche pour soutenir ces projets. Cela nous semble être la moindre des choses depuis le temps.
 
 Comme il y a beaucoup de projets indispensables et qu&rsquo;on n&rsquo;a pas tellement de sous pour l&rsquo;instant, on vous  propose de choisir pour nous un projet parmi ceux listés ci-dessous :  
 

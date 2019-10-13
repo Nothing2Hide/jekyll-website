@@ -32,6 +32,6 @@ Un rendez-vous ouvert à tous, où on échange et on réfléchit, c&rsquo;est ex
 
 
 
-Les assises sont également l&rsquo;occasion pour Nothing2Hide de rencontrer un public de journalistes et de citoyens sensibles aux questions de protection de l&rsquo;information, de présenter nos outils, nos formations et surtout [nos actions](http://nothing2hide.org/wiki/doku.php?id=asso:rapportannuel2017).
+Les assises sont également l&rsquo;occasion pour Nothing2Hide de rencontrer un public de journalistes et de citoyens sensibles aux questions de protection de l&rsquo;information, de présenter nos outils, nos formations et surtout [nos actions](http://wiki.nothing2hide.org/doku.php?id=asso:rapportannuel2017).
 
 Nous sommes donc &#8211; on le répète  &#8211; ravis de participer  à l&rsquo;édition des assises du journalisme 2018 en compagnie d&rsquo;autres organisations  telles que Mediaeducation.fr, RSF (que nous ne manquerons pas de saluer), Solutions Journalism Network, l’EMI-CFD, Reporters d’Espoirs, IPJ Paris-Dauphine, l’Imprévu, le Bondy Blog et l’incubateur The Media House.

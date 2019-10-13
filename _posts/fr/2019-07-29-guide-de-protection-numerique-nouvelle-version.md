@@ -12,7 +12,7 @@ categories:
   - News
 ---
 
-Un vendredi de juillet, nous recevons un mail via le formulaire de contact. L&rsquo;auteur, Zeka, nous explique qu&rsquo;il a apprécié notre guide ([disponible en ligne sous forme de wiki](https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:start)) mais que comme celui-ci comportait quelques coquilles, il avait entrepris de les corriger et de synthétiser nos contenus sous la forme d&rsquo;un pdf. En effet, parmi les contenus édités par Nothing2Hide, il n&rsquo;y pas que ce guide, il y a aussi [les supports de cours que nous utilisons lors de nos formations](https://nothing2hide.org/slides/), eux aussi publiés sous licence Creative Commons. 
+Un vendredi de juillet, nous recevons un mail via le formulaire de contact. L&rsquo;auteur, Zeka, nous explique qu&rsquo;il a apprécié notre guide ([disponible en ligne sous forme de wiki](https://wiki.nothing2hide.org/doku.php?id=protectionnumerique:start)) mais que comme celui-ci comportait quelques coquilles, il avait entrepris de les corriger et de synthétiser nos contenus sous la forme d&rsquo;un pdf. En effet, parmi les contenus édités par Nothing2Hide, il n&rsquo;y pas que ce guide, il y a aussi [les supports de cours que nous utilisons lors de nos formations](https://nothing2hide.org/slides/), eux aussi publiés sous licence Creative Commons. 
 
 Le résultat est une version enrichie de notre guide de protection numérique, au format pdf que nous allons très probablement essayer de faire traduire et imprimer pour distribution. <figure class="wp-block-image">
 
