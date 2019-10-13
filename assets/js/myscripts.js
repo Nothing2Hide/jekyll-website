@@ -109,8 +109,6 @@
   // Newsletter
   
   if( $('#nln2h').length ) {
-    // masquer page mailman
-    /*
     $("form#nln2h").submit(function(e) {
       e.preventDefault();
 		 	var url = $(this).attr('action') + '?' + $(this).serialize();
@@ -119,7 +117,7 @@
 		     window.location = "/fr/merci-pour-votre-abonnement/";
 		 	});
 	 	});
-	 	*/
+
 	 	// onfocus
 	 	$("#nln2h input").focus(function(e) {
 			$(this).data('label', $(this).attr('value'));
