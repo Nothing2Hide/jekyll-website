@@ -68,8 +68,6 @@ t:
     menu-footer1:
       - title: "Partenaires"
         url: "/fr/partenaires/"
-      - title: "Presse"
-        url: "/fr/presse/"
       - title: "Wiki"
         url: "https://nothing2hide.org/wiki/"
       - title: "Vérificateur de mot de passe"
