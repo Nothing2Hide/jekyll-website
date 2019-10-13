@@ -22,6 +22,6 @@ Description
 - VPN : explication, installation, utilisation
 - Tor : explication, installation, utilisation
 
-Les [supports pédagogiques](page.slides) de cet atelier sont publiées et disponibles en ligne sous licence libre.
+Les [supports pédagogiques]({{page.slides}}) de cet atelier sont publiées et disponibles en ligne sous licence libre.
 
 Ordinateur ou smartphone obligatoire pour les participants.

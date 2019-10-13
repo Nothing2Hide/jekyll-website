@@ -22,6 +22,6 @@ slides: https://nothing2hide.org/slides/atelier-crypto-avancee.html
   - Discuter “Off The Reccord”
   - Tails, le couteau suisse de la sécurité
 
-Les [supports pédagogiques](page.slides) de cet atelier sont publiées et disponibles en ligne sous licence libre.
+Les [supports pédagogiques]({{page.slides}}) de cet atelier sont publiées et disponibles en ligne sous licence libre.
 
 Ordinateur ou smartphone obligatoire pour les participants.

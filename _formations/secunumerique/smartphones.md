@@ -21,6 +21,6 @@ description: "Quels outils pour communiquer de manière chiffrée sur smartphone
   - Chiffrer ses données
   - Chiffrer ses communications
 
-Les [supports pédagogiques](page.slides) de cet atelier sont publiées et disponibles en ligne sous licence libre.
+Les [supports pédagogiques]({{page.slides}}) de cet atelier sont publiées et disponibles en ligne sous licence libre.
 
 Ordinateur ou smartphone obligatoire pour les participants.

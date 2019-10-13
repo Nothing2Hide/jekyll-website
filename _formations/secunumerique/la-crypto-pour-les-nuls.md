@@ -25,6 +25,6 @@ slides: https://nothing2hide.org/slides/atelier-crypto.html
   - Quels outils pour communiquer de manière chiffrée sur smartphone et ordinateur
   - Smartphone : WhatsApp, Telegram, Signal, Wire et Messenger, Jitsi, Citadel lequel choisir  ?
 
-Les [supports pédagogiques](page.slides) de cet atelier sont publiées et disponibles en ligne sous licence libre.
+Les [supports pédagogiques]({{page.slides}}) de cet atelier sont publiées et disponibles en ligne sous licence libre.
 
 Ordinateur ou smartphone obligatoire pour les participants.

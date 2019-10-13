@@ -14,7 +14,6 @@ slides: https://nothing2hide.org/slides/atelier-bases.html
   - {{ page.type }}, 10 à 20 personnes
   - Durée : {{ page.duree }}
 
-
 ### Description
 
 - Comportement avec ses périphériques numériques
@@ -23,6 +22,6 @@ slides: https://nothing2hide.org/slides/atelier-bases.html
 - Double authentification
 - Protéger ses compte sen ligne
 
-Les [supports pédagogiques](page.slides) de cet atelier sont publiées et disponibles en ligne sous licence libre.
+Les [supports pédagogiques]({{page.slides}}) de cet atelier sont publiées et disponibles en ligne sous licence libre.
 
 Ordinateur ou smartphone obligatoire pour les participants.

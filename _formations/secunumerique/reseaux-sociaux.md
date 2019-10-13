@@ -21,6 +21,6 @@ slides: https://nothing2hide.org/slides/atelier-reseauxsociaux.html
   - Les stratégies de compartimentation
   - Les supports pédagogiques de cet atelier sont disponibles en ligne sous licence CC by. Ordinateur ou smartphone obligatoire pour les participants.
 
-Les [supports pédagogiques](page.slides) de cet atelier sont publiées et disponibles en ligne sous licence libre.
+Les [supports pédagogiques]({{page.slides}}) de cet atelier sont publiées et disponibles en ligne sous licence libre.
 
 Ordinateur ou smartphone obligatoire pour les participants.
