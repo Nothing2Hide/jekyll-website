@@ -69,7 +69,7 @@ t:
       - title: "Partenaires"
         url: "/fr/partenaires/"
       - title: "Wiki"
-        url: "https://nothing2hide.org/wiki/"
+        url: "https://wiki.nothing2hide.org/"
       - title: "Vérificateur de mot de passe"
         url: "/fr/verifier-la-robustesse-de-votre-mot-de-passe/"
       - title: "VPN"
