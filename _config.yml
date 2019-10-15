@@ -102,11 +102,11 @@ t:
         url: "/en/donate/"
     menu-footer1:
       - title: "Wiki"
-        url: "https://nothing2hide.org/wiki/"
+        url: "https://wiki.nothing2hide.org/"
       - title: "Password checker"
         url: "/en/password-checker/"
       - title: "VPN"
-        url: "/wiki/doku.php?id=en:protectionnumerique:vpn#nothing2hide_vpn"
+        url: "https://wiki.nothing2hide.org/doku.php?id=en:protectionnumerique:vpn#nothing2hide_vpn"
       - title: Newsletter
         url: "/fr/newsletter/"
     menu-footer2:
