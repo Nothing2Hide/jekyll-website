@@ -12,8 +12,11 @@ RewriteRule ^pegasus/(.*)$ https://pegasus.nothing2hide.org/$1 [L,R=301]
 RewriteRule ^slides/(.*)$ https://slides.nothing2hide.org/$1 [L,R=301]
 
 # fiches pedagogiques
-Redirect /fr/themes/sinformer-sur-internet/ /fr/fiches-pedagogiques/#s-informer-sur-internet
-Redirect /fr/themes//la-data-sur-internet/ /fr/fiches-pedagogiques/#les-donnees-a-l-ere-d-internet
+Redirect 301 /fr/themes/sinformer-sur-internet/ /fr/fiches-pedagogiques/#s-informer-sur-internet
+Redirect 301 /fr/themes//la-data-sur-internet/ /fr/fiches-pedagogiques/#les-donnees-a-l-ere-d-internet
 
 # Guide
 RewriteRule ^fr/guide-de-voyage-en-milieu-hostile/(.*)$ {{site.url}}{{site.baseurl}}/fr/guide-protection-numerique/$1 [L,R=301]
+
+# Posts
+Redirect 301 /fr/2019/10/02/debat-leffet-black-mirror/ {{site.url}}{{site.baseurl}}/fr/2019-10-02-debat-leffet-black-mirror/
