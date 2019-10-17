@@ -22,6 +22,9 @@ Vous aurez créé des slides que vous projetterez lors de l'atelier : chaque sli
 Vous pouvez également les retrouver dans l'article : [« Une avocate a réécrit les conditions d'utilisation d'Instagram comme si elles étaient expliquées à un enfant de 8ans »](https://www.businessinsider.fr/une-avocate-a-reecrit-les-conditions-dutilisations-dinstagram-comme-si-elles-etaient-expliquees-a-un-enfant-de-8-ans/). L'article original est disponible en anglais sur
 [Qwartz](https://qz.com/878790/a-lawyer-rewrote-instagrams-terms-of-service-for-kids-now-you-can-understand-all-of-the-private-data-you-and-your-teen-are-giving-up-to-social-media/).
 
+![alt text](/assets/img/cgu.jpg)
+*De gauche à droite : les conditions d'utilisation de WhatsApp, Google, Tinder, Twitter, Facebook, Snapchat et Instagram. Un réalisation du designer Dima Yarovinsky*
+
 Étape 2 : Introduction
 ----------------------
 

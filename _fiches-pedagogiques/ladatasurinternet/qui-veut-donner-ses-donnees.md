@@ -20,16 +20,14 @@ aurez également imprimé la photo de Barack Obama.
 Le jeu de la bouteille
 ----------------------
 
-::: {#magicdomid67}
-[Les participants se mettent en cercle et font tourner une bouteille au
+Les participants se mettent en cercle et font tourner une bouteille au
 milieu. Celui qui se voit désigné par le goulot de la bouteille pioche
 une question dans un  bocal ou un chapeau qui contient des papiers pliés
 sur lesquelles sont inscrits des questions plus ou moins personnelles.
 Celui qui répond à une question fait tourner la bouteille et pose la
 question d'après. Les participants peuvent ne pas répondre à une
 question, ils passent alors leur tour et ne lancent pas la bouteille ni
-ne pose de questions au tour suivant.\
-]{.author-a-d7z65zhrz90zqz67zz68zz83zz73zz88zz90zz83zvz76z}
+ne pose de questions au tour suivant.
 :::
 
 Les questions
@@ -39,7 +37,6 @@ Il est important de garder le « nous ». En effet, il faut bien faire
 comprendre que la réponse ne s'adresse pas une seule personne mais bel
 et bien à tout le groupe. En cas de gêne ou d'embarras, n'hésitez pas à
 expliquer que les joueurs peuvent passer leur tour.
-
 
 ### Lieux
 

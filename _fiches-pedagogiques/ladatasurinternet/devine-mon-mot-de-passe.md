@@ -22,7 +22,7 @@ Lancement
 ---------
 
 Créer des groupes de 2 idéalement face à face. Distribuez les cartes de
-couleurs, la feuille ESSAIS et une enveloppe à chaque enfant.\
+couleurs, la feuille ESSAIS et une enveloppe à chaque enfant.
 L'objectif est de deviner en un minimum d'essais le code (choisi par
 l'enfant et contenu dans enveloppe).
 
