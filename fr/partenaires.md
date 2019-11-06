@@ -4,10 +4,8 @@ title: Partenaires
 author: Nothing2Hide
 layout: page
 lang: fr
-guid: https://nothing2hide.org/fr/?page_id=2188
+description: "« Tout seul on va plus vite, ensemble, on va plus loin »."
 ---
-
-« Tout seul on va plus vite, ensemble, on va plus loin ».  
 
 
 [![GIJN](/assets/img/sites/3/2018/10/gijn-11701.png)](https://gijn.org/)
