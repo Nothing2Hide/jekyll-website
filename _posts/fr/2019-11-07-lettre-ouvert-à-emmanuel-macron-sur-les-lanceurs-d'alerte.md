@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Lanceurs d'alerte : lettre ouverte au président Emmanuel Macron"
+title: "Lanceurs d'alerte : lettre ouverte à Emmanuel Macron"
 date: 2019-11-07
 image: '/assets/img/'
-description: "À l'occasion de la transposition dans le droit français de la directive européenne sur les lanceurs d'alerte, 53 organisations signataires dont Nothing2Hide appellent dans une lettre ouverte le président de la République française Emmanuel Macron à faire de notre pays un modèle de législation sur les lanceurs d'alerte."
+description: "À l'occasion de la transposition dans le droit français de la directive européenne sur les lanceurs d'alerte, 53 organisations signataires dont Nothing2Hide appellent le président de la République française Emmanuel Macron à faire de notre pays un modèle de législation sur les lanceurs d'alerte."
 lang: fr
 tags: 
 - lanceurs d'alerte
