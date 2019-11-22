@@ -3,10 +3,14 @@ layout: post
 title: "Le futur de la régulation d'Internet passe par la décentralisation"
 date: 2019-11-22 17:44:34
 image: '/assets/img/'
-description: "Intervention d'Aral Balkan au parlement Européen'"
-tags:
-categories:
-twitter_text:
+description: "À regarder de toute urgence : l'intervention d'Aral Balkan au parlement Européen sur la régulation d'Internet."
+tags: 
+- Internet
+- Gafam
+- Régulation
+- Démocratie
+categories: [News]
+lang: fr
 ---
 
 Aral Balkan, dont nous avions déjà publié et traduit un texte à notre sens essentiel, [À ceux qui ne voient aucun problème à travailler avec Facebook ou Google](https://nothing2hide.org/fr/2019/01/16/il-ny-a-aucun-probleme-ni-avec-facebook-ni-avec-google/), est l'une des personnes les plus inspirantes dès lors qu'il est question de technologie. Le 19 novembre Aral est intervenu au aprlement européen à l'invitation des verts pour  exposer devant les députés présents ce que doit être aujourd'hui le futur d'Internet. 
