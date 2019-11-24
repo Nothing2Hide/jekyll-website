@@ -25,7 +25,7 @@ Vous n'y trouverez pas :
   * des articles sur le chiffrement de mails avec GPG, trop sujet aux erreurs de manipulation et facilement remplaçable dans la plupart des cas par des outils plus simples tels que Signal (dont nous il est évidemment question dans ce guide);
 
 
-Ce guide est publié sous forme de Wiki, il est donc **régulièrement mis à jour** et [vous pouvez contribuer à l&rsquo;améliorer](https://wiki.nothing2hide.org/doku.php?id=protectionnumerique:start&do=login&sectok=). Il est publié sous licence **Creative Commons CC BY SA**, vous pouvez le réutiliser, copier, modifier et redistribuer. Nous vous encourageons même à le faire et mettons à disposition les fichiers sources de la version imprimable : 
+Ce guide est publié sous forme de Wiki, il est donc **régulièrement mis à jour** et [vous pouvez contribuer à l&rsquo;améliorer](https://wiki.nothing2hide.org/doku.php?id=protectionnumerique:start). Il est publié sous licence **Creative Commons CC BY SA**, vous pouvez le réutiliser, copier, modifier et redistribuer. Nous vous encourageons même à le faire et mettons à disposition les fichiers sources de la version imprimable : 
 
   * [Télécharger le fichier source](/wpmulti/wp-content/uploads/Guide-Protection-Numerique-v.1_2019.indd.ps), eps 8,8 Mo   
   * [Télécharger le fichier source]({{ site.url }}/wpmulti/wp-content/uploads/Guide-Protection-Numerique-v.1_2019.indd) indesign 4,2 Mo
