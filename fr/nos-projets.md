@@ -24,4 +24,4 @@ Nous publions et agrégeons des fiches pédagogiques pour animer des ateliers «
 Des ateliers et conférences 
 -------------
 
-Nothing2Hide anime et participe à des événements su la littératie numérique dans toute la France. Nous intervenons régulièrement au sein de médiathèques ou décoles pour animer des débats et ateliers autour des [fausses informations]({{site.url}}/slides/conference-fakenews.html), des [données personnelles]({{site.ulr}}	/slides/conference-donnees-personnelles.html) et de la [protection des données]({{site.url}}/slides/conference-secu-intro.html). Tous [les supports de nos conférences sont accessible en ligne]({{site.url}}/slides).
+Nothing2Hide anime et participe à des [événements autour de la littératie numérique dans toute la France](/fr/tags/#conférence). Nous intervenons régulièrement au sein de médiathèques ou décoles pour animer des débats et ateliers autour des [fausses informations]({{site.url}}/slides/conference-fakenews.html), des [données personnelles]({{site.ulr}}	/slides/conference-donnees-personnelles.html) et de la [protection des données]({{site.url}}/slides/conference-secu-intro.html).
