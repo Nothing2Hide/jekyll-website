@@ -6,7 +6,7 @@ nouvelles technologies, est devenue un phénomène de société, en raison
 de son personnage principal : la technologie."
 layout: post
 tags:
-  - Débat
+  - Conférence
   - Données personnelles
   - Black Mirror
 ---

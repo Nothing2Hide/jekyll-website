@@ -2,19 +2,22 @@
 lang: fr 
 id: 2630
 title: À ceux qui ne voient aucun problème à travailler avec Facebook ou Google
+description: "Aral Balkan pointent les contradictions des nombreuses organisations de défense des libertés numériques (Access, FSF, Mozilla, GNOME, etc.) financées par Google ou Facebook."
 date: 2019-01-16T08:00:57+02:00
 author: Nothing2Hide
 layout: post
-gulang: fr 
 id: https://nothing2hide.org/fr/?p=2630
 permalink: /fr/2019/01/16/il-ny-a-aucun-probleme-ni-avec-facebook-ni-avec-google/
 image: /wp-content/uploads/sites/3/2019/01/google_logo_by_dracu_teufel666-d491ml0.jpg
+tags: 
+- Internet
+- Gafam
+- Google
+- Facebook
+categories: [News]
 categories:
   - News
 ---
-De nombreuses organisations de défense des libertés numériques, essentiellement anglo-saxonnes (Access, FSF, Mozilla, GNOME, etc.), sont financées par Google ou Facebook. 
-
-<!--more-->
 
 Ces deux sociétés vivent pourtant de [l&rsquo;exploitation des données personnelles de leurs utilisateurs](https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_surveillance), au mépris de leurs vies privées et de leurs libertés. Ce ne sont des acteurs sains ni pour Internet ni pour la démocratie. Aral Balkan, activiste et développeur, pointe dans son billet au titre ironique les contradictions et l&rsquo;hypocrisie de ces organisations. Ce billet traduit en grande partie ce que nous pensons chez Nothing2Hide (quitte à frôler l&rsquo;asphyxie financière). Nous en publions une traduction française ici.
 

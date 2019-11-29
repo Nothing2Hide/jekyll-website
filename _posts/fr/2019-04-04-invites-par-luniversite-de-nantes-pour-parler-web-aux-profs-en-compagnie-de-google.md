@@ -6,8 +6,6 @@ date: 2019-04-04T18:19:37+02:00
 author: Nothing2Hide
 description: "Chez Nothing2Hide, nous sommes convaincus que partout où Google Fb and co s’incrustent, quelque soit le sujet ou l'événement,  il faut venir leur porter la contradiction et proposer une autre vision que celle que  ces menteurs nous vendent."
 layout: post
-gulang: fr 
-id: https://nothing2hide.org/fr/?p=3350
 permalink: /fr/2019/04/04/invites-par-luniversite-de-nantes-pour-parler-web-aux-profs-en-compagnie-de-google/
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
@@ -18,7 +16,12 @@ enclosure:
     https://nothing2hide.org/wpmulti/wp-content/uploads/classecod.m4v
     298188725
     video/mp4
-    
+tags:
+- Internet
+- Gafam
+- Google
+- Conférence
+categories: [News]
 categories:
   - News
 ---

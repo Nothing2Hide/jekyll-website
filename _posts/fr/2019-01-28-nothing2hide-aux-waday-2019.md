@@ -5,7 +5,11 @@ title: Nothing2Hide aux WAday 2019
 date: 2019-01-28T14:15:25+02:00
 author: Nothing2Hide
 layout: post
-gulang: fr 
+tags:
+- Sécurité numérique
+- Associations
+- Conférence
+- Logiciels libres
 id: https://nothing2hide.org/fr/?p=2659
 permalink: /fr/2019/01/28/nothing2hide-aux-waday-2019/
 categories:
