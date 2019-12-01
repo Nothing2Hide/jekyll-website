@@ -3,7 +3,7 @@ title: Notre guide de protection numérique
 layout: page
 lang: fr
 categories: [home]
-order: 4
+order: 3
 permalink: /fr/guide-de-protection-numerique/
 description: "Des conseils de base jusqu&rsquo;au chiffrement de vos communications en passant par les précautions à prendre lors de la couverture d&rsquo;un événement, notre Guide de protection numérique vous aidera à protéger vos informations en toutes circonstances."
 ---
