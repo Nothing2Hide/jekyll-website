@@ -82,7 +82,7 @@ Annexes
 
 ### Fiche actions
 
-[![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/acces-info-actions.png)](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/acces-info-actions.png)
+[![](https://nothing2hide.org/assets/img/sites/3/2019/02/acces-info-actions.png)](https://nothing2hide.org/assets/img/sites/3/2019/02/acces-info-actions.png)
 
 ### Fiche personnages
 
@@ -101,7 +101,7 @@ Internet :
 -   \*\* : accès moyen à Internet
 -   \*\*\* accès facile à Internet
 
-![Fiche personnage](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/acces-info-fiche-personnages.png)
+![Fiche personnage](https://nothing2hide.org/assets/img/sites/3/2019/02/acces-info-fiche-personnages.png)
 
 ### Âge
 

@@ -131,20 +131,20 @@ Démonstration : des captures écran tirées d'une page de profil
 
 ![Donne-nous la liste des endroits où tu as habité jusqu'à aujourd'hui
 et les adresses si tu t'en
-souviens](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/Sélection_031.png){.wp-image-14234
+souviens](https://voyageursdunumerique.assets/img/2019/01/Sélection_031.png){.wp-image-14234
 .size-full width="822" height="646"}
 
 ![Si tu es en couple, peux-tu nous dire si ta relation est compliquée
-?](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/Sélection_036.png){.wp-image-14241
+?](https://voyageursdunumerique.assets/img/2019/01/Sélection_036.png){.wp-image-14241
 .size-full width="872" height="400"}
 
 ![Parle-nous d'un événement marquant, de ta première rencontre par
-exemple](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/Sélection_032.png){.wp-image-14235
+exemple](https://voyageursdunumerique.assets/img/2019/01/Sélection_032.png){.wp-image-14235
 .size-full width="499" height="741"}
 
 
 ![Parle-nous d'un événement marquant, de la perte d'un
-proche.](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/Sélection_033.png){.wp-image-14236
+proche.](https://voyageursdunumerique.assets/img/2019/01/Sélection_033.png){.wp-image-14236
 .size-full width="496" height="711"}
 
 
@@ -162,11 +162,11 @@ Annexes
 -------
 
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/michelle-obama-abbraccia-barack.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/michelle-obama-abbraccia-barack.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/01/michelle-obama-abbraccia-barack.jpg)](https://voyageursdunumerique.assets/img/2019/01/michelle-obama-abbraccia-barack.jpg)
 
 
 1.  *(\*) La photo de Barack Obama font partie des photos les plus
     partagées sur le réseau social Facebook.*
 2.  *(\*\*) Ces expressions correspondent aux émoticones Facebook
     permettant de réagir sur les publications :
-    [![](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/Sélection_037-e1548344477521.png)](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/Sélection_037.png)*
+    [![](https://voyageursdunumerique.assets/img/2019/01/Sélection_037-e1548344477521.png)](https://voyageursdunumerique.assets/img/2019/01/Sélection_037.png)*

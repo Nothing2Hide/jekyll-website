@@ -53,20 +53,20 @@ dollars](http://www.zdnet.fr/actualites/data-brokers-aux-etats-unis-votre-vie-pr
 ! Maintenant qu'on a dit ça, essayons de voir ce que Facebook ou Google
 peut avoir comme information sur nous.
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/Data-broker2.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/02/Data-broker2.png){.alignnone
 .size-full .wp-image-3119 width="865" height="286"
 sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/Data-broker2.png 865w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/Data-broker2-300x99.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/Data-broker2-768x254.png 768w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/Data-broker2-600x198.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/Data-broker2-280x93.png 280w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/02/Data-broker2.png 865w, https://nothing2hide.org/assets/img/sites/3/2019/02/Data-broker2-300x99.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/02/Data-broker2-768x254.png 768w, https://nothing2hide.org/assets/img/sites/3/2019/02/Data-broker2-600x198.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/02/Data-broker2-280x93.png 280w"}
 
 Découvrons ce que Facebook et Google savent de moi
 --------------------------------------------------
 
 ### Google
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/google.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/02/google.png){.alignnone
 .size-full .wp-image-3120 width="1024" height="683"
 sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/google.png 1024w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/google-300x200.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/google-768x512.png 768w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/google-600x400.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/google-240x160.png 240w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/02/google.png 1024w, https://nothing2hide.org/assets/img/sites/3/2019/02/google-300x200.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/02/google-768x512.png 768w, https://nothing2hide.org/assets/img/sites/3/2019/02/google-600x400.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/02/google-240x160.png 240w"}
 
 On va commencer par Google. Peut-être les participants ne le savent-ils
 pas mais par défaut, l'application Google Maps enregistre tous vos
@@ -74,9 +74,9 @@ trajets. Oui tous vos trajets !
 
 Commencez par montrer cette image :
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/donnees-perso-googlemaps.png){.size-full
+[![](https://voyageursdunumerique.assets/img/2019/02/donnees-perso-googlemaps.png){.size-full
 .wp-image-14527 .aligncenter width="577"
-height="400"}](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/donnees-perso-googlemaps.png)
+height="400"}](https://voyageursdunumerique.assets/img/2019/02/donnees-perso-googlemaps.png)
 
 C'est le genre de schéma que l'on peut obtenir en allant sur son compte
 Google consulter [l'historique de ses positions Google
@@ -147,10 +147,10 @@ revendues à des data brokers...
 
 ### Facebook
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/800px-No_Facebook.svg_.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/02/800px-No_Facebook.svg_.png){.alignnone
 .size-full .wp-image-3121 width="800" height="301"
 sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/800px-No_Facebook.svg_.png 800w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/800px-No_Facebook.svg_-300x113.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/800px-No_Facebook.svg_-768x289.png 768w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/800px-No_Facebook.svg_-600x226.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/02/800px-No_Facebook.svg_-280x105.png 280w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/02/800px-No_Facebook.svg_.png 800w, https://nothing2hide.org/assets/img/sites/3/2019/02/800px-No_Facebook.svg_-300x113.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/02/800px-No_Facebook.svg_-768x289.png 768w, https://nothing2hide.org/assets/img/sites/3/2019/02/800px-No_Facebook.svg_-600x226.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/02/800px-No_Facebook.svg_-280x105.png 280w"}
 
 Facebook n'est pas en reste et a également énormément d'informations sur
 vous.
@@ -173,9 +173,9 @@ nous allons faire. Demandez aux participants de se rendre dans les
 paramètres de leur compte Facebook, et de sélectionner le deuxième item
 du menu à gauche, « Vos informations Facebook ».
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/param-facebook.png){.alignleft
+[![](https://voyageursdunumerique.assets/img/2019/02/param-facebook.png){.alignleft
 .size-full .wp-image-14528 width="1521"
-height="762"}](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/param-facebook.png)
+height="762"}](https://voyageursdunumerique.assets/img/2019/02/param-facebook.png)
 
 Cliquez sur accédez à vos informations. Celles-ci sont classées par
 catégories :

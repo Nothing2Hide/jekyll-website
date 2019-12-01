@@ -190,14 +190,14 @@ vides, et de vérifier les informations déjà renseignées.
 
 Voici le tableau qu'ils devront remplir, in fine.
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2018/12/connaitre_les_moteurs_de_recherche_exercice.png)](https://voyageursdunumerique.fr/wp-content/uploads/2018/12/connaitre_les_moteurs_de_recherche_exercice.png)
+[![](https://voyageursdunumerique.assets/img/2018/12/connaitre_les_moteurs_de_recherche_exercice.png)](https://voyageursdunumerique.assets/img/2018/12/connaitre_les_moteurs_de_recherche_exercice.png)
 
 Et la solution
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2018/12/connaitre_les_moteurs_de_recherche_solution.png)](https://voyageursdunumerique.fr/wp-content/uploads/2018/12/connaitre_les_moteurs_de_recherche_solution.png)
+[![](https://voyageursdunumerique.assets/img/2018/12/connaitre_les_moteurs_de_recherche_solution.png)](https://voyageursdunumerique.assets/img/2018/12/connaitre_les_moteurs_de_recherche_solution.png)
 
 Le tableau disponible pour impression au format pdf :
-[connaitre\_les\_moteurs\_de\_recherche.pdf](https://voyageursdunumerique.fr/wp-content/uploads/2018/12/connaitre_les_moteurs_de_recherche_exercice.pdf)
+[connaitre\_les\_moteurs\_de\_recherche.pdf](https://voyageursdunumerique.assets/img/2018/12/connaitre_les_moteurs_de_recherche_exercice.pdf)
 
 Etape 8 : Ouverture
 -------------------

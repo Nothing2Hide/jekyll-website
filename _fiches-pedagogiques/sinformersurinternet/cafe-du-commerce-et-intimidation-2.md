@@ -19,9 +19,9 @@ Imprimez les quatre fiches scénarios, ainsi que les fiches avec les
 éléments de réponses
 
 -   Fiches scénario
-    [temoignages-fiches](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/temoignages-fiches.pdf)
+    [temoignages-fiches](https://voyageursdunumerique.assets/img/2018/11/temoignages-fiches.pdf)
 -   Fiches scénario avec réponses
-    [temoignages-reponses](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/temoignages-reponses.pdf)
+    [temoignages-reponses](https://voyageursdunumerique.assets/img/2018/11/temoignages-reponses.pdf)
 
 Introduction
 ------------

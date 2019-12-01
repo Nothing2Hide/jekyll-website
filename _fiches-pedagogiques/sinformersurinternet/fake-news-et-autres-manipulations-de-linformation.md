@@ -110,9 +110,9 @@ mandature de François Hollande, cette photo de pilote d'avion a beaucoup
 circulé sur les réseaux sociaux. Fakenews ou pas ? Ou plutôt : canular,
 fausse information, publication orientée, piège à clics ?
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2018/12/Image111.jpg){.alignnone
+[![](https://voyageursdunumerique.assets/img/2018/12/Image111.jpg){.alignnone
 .size-full .wp-image-13881 width="1289"
-height="794"}](https://voyageursdunumerique.fr/wp-content/uploads/2018/12/Image111.jpg)
+height="794"}](https://voyageursdunumerique.assets/img/2018/12/Image111.jpg)
 
 Réponse : cette photo est un faux. Elle a été retouchée pour laisser
 croire qu'un pilote de l'armée française protestait contre le président

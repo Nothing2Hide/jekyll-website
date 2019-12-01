@@ -56,7 +56,7 @@ participants. Pour l’obtenir, allez sur votre feuille Ethercalc, cliquez
 sur formulaire puis sur le bouton « Formulaire en direct ». Vous obtenez
 l’URL du formulaire qui va renseigner votre feuille de calcul Ethercalc.
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data1.png)
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/data1.png)
 
 Une fois que tous les participants ont rempli le formulaire, vous allez
 maintenant manipuler les données et les afficher.
@@ -104,7 +104,7 @@ maintenant imprimer le graphique !
 Tout est résumé dans la vidéo ci-dessous :
 
 <figure>
-    <video controls src="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/Ethercalc.m4v.mp4"></video>
+    <video controls src="https://nothing2hide.org/assets/img/sites/3/2019/09/Ethercalc.m4v.mp4"></video>
 </figure>
 
 

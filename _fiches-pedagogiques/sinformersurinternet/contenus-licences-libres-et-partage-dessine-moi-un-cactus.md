@@ -113,16 +113,16 @@ Elles sont obtenues en combinant les éléments suivants : \*
 
 ### Les symboles
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/48px-Cc-by_new_white.svg_.png) Attribution (BY =
+![](https://voyageursdunumerique.assets/img/2018/11/48px-Cc-by_new_white.svg_.png) Attribution (BY =
 par)
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/48px-Cc-sa_white.svg_.png) Partage dans les
+![](https://voyageursdunumerique.assets/img/2018/11/48px-Cc-sa_white.svg_.png) Partage dans les
 mêmes conditions (SA = Share alike)
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/48px-Cc-nd_white.svg_.png) Pas de modification
+![](https://voyageursdunumerique.assets/img/2018/11/48px-Cc-nd_white.svg_.png) Pas de modification
 de l'œuvre autorisée (ND = no derivative works)
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/Cc-nc_white.svg_.png) Utilisation
+![](https://voyageursdunumerique.assets/img/2018/11/Cc-nc_white.svg_.png) Utilisation
 commerciale non autorisée (NC = non commercial use)
 
 En combinant les symboles, on définit ainsi les termes de la licence

@@ -115,21 +115,21 @@ adultes.
 Annexes
 -------
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/carte-id-num-enfants-1.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/carte-id-num-enfants-1.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/02/carte-id-num-enfants-1.jpg)](https://voyageursdunumerique.assets/img/2019/02/carte-id-num-enfants-1.jpg)
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/Dessin-sans-titre.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/Dessin-sans-titre.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/02/Dessin-sans-titre.jpg)](https://voyageursdunumerique.assets/img/2019/02/Dessin-sans-titre.jpg)
 
 Les photos à partager : un souvenir de vacances à la plage, un souvenir
 de promenade en forêt, le souvenir d'un jeu (match de foot ou autre)
 gagné, toi qui joue avec des copains, toi en vacances avec ta famille,
 toi qui fais tes devoirs, toi qui t'occupe de ton animal.
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/mer-famille.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/mer-famille.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/02/mer-famille.jpg)](https://voyageursdunumerique.assets/img/2019/02/mer-famille.jpg)
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/Colombus_Isle.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/Colombus_Isle.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/02/Colombus_Isle.jpg)](https://voyageursdunumerique.assets/img/2019/02/Colombus_Isle.jpg)
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/foret.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/foret.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/02/foret.jpg)](https://voyageursdunumerique.assets/img/2019/02/foret.jpg)
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/Home_work_routine.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/Home_work_routine.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/02/Home_work_routine.jpg)](https://voyageursdunumerique.assets/img/2019/02/Home_work_routine.jpg)
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/foot.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/foot.jpg)
+[![](https://voyageursdunumerique.assets/img/2019/02/foot.jpg)](https://voyageursdunumerique.assets/img/2019/02/foot.jpg)

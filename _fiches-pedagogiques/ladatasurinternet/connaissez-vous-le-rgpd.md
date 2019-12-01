@@ -254,9 +254,9 @@ puisque la CNIL en déduit que le consentement des internautes « *n'est
 pas valablement recueilli* », faute pour le géant américain d'avoir «
 *suffisamment éclairé* » ses clients.
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/oui.jpg){.alignnone
+[![](https://voyageursdunumerique.assets/img/2019/02/oui.jpg){.alignnone
 .size-full .wp-image-14329 width="975"
-height="500"}](https://voyageursdunumerique.fr/wp-content/uploads/2019/02/oui.jpg)
+height="500"}](https://voyageursdunumerique.assets/img/2019/02/oui.jpg)
 
 ### L'application jelachemonsmartphone.com me permet de savoir à quel point je suis accroc à mon smartphone.
 

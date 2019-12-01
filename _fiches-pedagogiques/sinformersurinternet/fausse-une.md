@@ -15,7 +15,7 @@ Pour cet atelier vous devrez préparer en amont du contenu à proposer aux parti
  	<li>Un répertoire (dossier) avec les logos de divers magazines (Libération, L'Equipe, Le Figaro, Paris Match ..). Limitez vous à 4 magazines.</li>
  	<li>Des images capturées de Une complète pour respecter le code visuel propre à chacun</li>
  	<li>Créer un répertoire "Fausse Une" sur le bureau des ordinateurs destinés aux participants</li>
- 	<li>Téléchargez le fichier <a href="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/01/fake1.odt">fake1.odt</a></li>
+ 	<li>Téléchargez le fichier <a href="https://nothing2hide.org/assets/img/sites/3/2019/01/fake1.odt">fake1.odt</a></li>
 </ul>
 <h2>Étape 1 : Lancement</h2>
 Expliquez aux participants que durant 3h ils vont être à la tête d'une rédaction de presse en charge de faire une couverture de magazine qui doit se vendre à beaucoup d'exemplaires.
@@ -23,13 +23,13 @@ Ce magazine sera distribué la semaine prochaine dans toute la France à 400 000
 <ul class="list-bullet1">
  	<li>Montrez des couvertures que vous avez sélectionné aux participants en détaillant celle ci-dessous :  Logo du magazine, les gros titres, l'image de UNE et sa légende, les informations secondaires en haut a gauche, les couleurs dominantes.</li>
 </ul>
-<img class="alignnone wp-image-13575 size-full" src="https://voyageursdunumerique.fr/wp-content/uploads/2018/11/1541774565.jpg" alt="" width="672" height="850" />
+<img class="alignnone wp-image-13575 size-full" src="https://voyageursdunumerique.assets/img/2018/11/1541774565.jpg" alt="" width="672" height="850" />
 
 Demandez aux participants le ressenti: choqués ? Intéressés ? Amusés ? Ils expliqueront pourquoi.
 Qu'est ce qui attire le regard ?
 Quel message ont-ils perçu ? Notez les remarques sur le tableau blanc, elle serviront plus tard.
 <h2>Étape 2 : Décrypter la composition d'une Une</h2>
-<img class="alignnone wp-image-13576 size-full" src="https://voyageursdunumerique.fr/wp-content/uploads/2018/11/1541774367.jpg" alt="" width="737" height="984" />
+<img class="alignnone wp-image-13576 size-full" src="https://voyageursdunumerique.assets/img/2018/11/1541774367.jpg" alt="" width="737" height="984" />
 
 Ensuite, montrez une maquette de UNE encore vierge (ci-dessus) et expliquez les différents emplacements et les visuels possibles.
 <ul class="list-indent1">
@@ -69,11 +69,11 @@ Sélectionner Batman.jpg et rétrécissez l'image pour quelle soit visible et bi
 
 Maintenant, il nous faut du texte. Appuyez sur le T dans la première barre d'outils en-dessous du menu, votre curseur change et vous pouvez créer un rectangle dans votre page où vous le voulez et même sur les images pour que le texte soit au-dessus.
 
-<img class="alignnone wp-image-13577 size-full" src="https://voyageursdunumerique.fr/wp-content/uploads/2018/11/1541783264.png" alt="" width="812" height="180" />
+<img class="alignnone wp-image-13577 size-full" src="https://voyageursdunumerique.assets/img/2018/11/1541783264.png" alt="" width="812" height="180" />
 
 Une fois la zone de texte créée vous pouvez taper votre texte, changer la taille, la couleur, ...
 
-<img class="alignnone wp-image-13578 size-full" src="https://voyageursdunumerique.fr/wp-content/uploads/2018/11/1541783296.png" alt="" width="558" height="648" />
+<img class="alignnone wp-image-13578 size-full" src="https://voyageursdunumerique.assets/img/2018/11/1541783296.png" alt="" width="558" height="648" />
 
 Le fichier fake1.odt d'exemple vous est fournis avec les images et le texte. Vous pouvez tout déplacer, éditer, supprimer pour essayer avec les participants.
 

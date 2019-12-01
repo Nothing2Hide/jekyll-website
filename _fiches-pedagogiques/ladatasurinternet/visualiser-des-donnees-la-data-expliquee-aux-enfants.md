@@ -15,9 +15,9 @@ Imprimez les fiches fournies. Il en faut une par personne
 pour l’activité l’individuelle, une par groupe pour l’activité
 collective (prévoyez du rab, si les enfants se trompent !)
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/collectif_bam_atelier_enfants_data_fiche_individuelle-1.png)
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/collectif_bam_atelier_enfants_data_fiche_individuelle-1.png)
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/collectif_bam_atelier_enfants_data_fiche_collective.png)
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/collectif_bam_atelier_enfants_data_fiche_collective.png)
 
 Étape 2 : Définir une donnée personnelle
 ----------------------------------------
@@ -61,7 +61,7 @@ croiser ensemble les données de tout le groupe un peu comme Facebook ou
 Google, mais à échelle beaucoup moins grande et surtout sans objectif de
 revente !
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/collectif_bam_datavisualisation_atelier_physique-4.jpg)
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/collectif_bam_datavisualisation_atelier_physique-4.jpg)
 
 Pour cela, vous allez devoir sortir du matériel. En plus des feutres,
 vous aurez besoin des ballons gonflables, des gommettes et de legos de

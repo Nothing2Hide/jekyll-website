@@ -106,7 +106,7 @@ fiche pour relier le trou au bord, et donc la carte va effectivement
 tomber. S'il ne les aime pas, la carte va rester sur l'aiguille.
 
 ![Source :
-https://members.loria.fr/MDuflot/files/med/BDatricoter.html](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/BSF-cartes-perforées.jpg)
+https://members.loria.fr/MDuflot/files/med/BDatricoter.html](https://voyageursdunumerique.assets/img/2019/01/BSF-cartes-perforées.jpg)
 
 Pour compliquer un peu la tâche, vous pouvez appliquer des filtres. Cela
 vous demande d'avoir préparé des fiches supplémentaires. Par exemple,

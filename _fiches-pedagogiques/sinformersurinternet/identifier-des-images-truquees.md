@@ -43,7 +43,7 @@ Question 1 : photo montage grossier
 
 Commencez à projeter la première photo manipulée sur l'écran. Pour ce grossier photomontage, les participants n'auront pas besoin de faire des recherches en ligne à partir de leur ordinateur. Posez leur la question : est-ce que cette image a été manipulée ?
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip1.jpg)
+![](https://voyageursdunumerique.assets/img/2018/11/images-manip1.jpg)
 
 ### Solution
 
@@ -64,7 +64,7 @@ photo a été publiée sur le site officiel de la ville de Hangzhou et
 
 Montrez ensuite l'une des photo qui a servi à réaliser le montage :
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip2.jpg)
+![](https://voyageursdunumerique.assets/img/2018/11/images-manip2.jpg)
 
 ### Expliquez la recherche inversée
 
@@ -91,7 +91,7 @@ Présentez les moteurs suivants:
 
 Expliquez leur fonctionnement avec cette image :
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip3.jpg)
+![](https://voyageursdunumerique.assets/img/2018/11/images-manip3.jpg)
 
 Entrez l'url de l'image dans le champ de recherche de
 <https://tineye.com/> et validez. Le moteur vous affichera alors la
@@ -105,7 +105,7 @@ Question 2
 
 Relancez le quiz : affichez sur le rétro projecteur cette photo
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip4.jpg)
+![](https://voyageursdunumerique.assets/img/2018/11/images-manip4.jpg)
 
 Cette image a été publiée pour illustrer les victimes de la guerre entre
 l'Ukraine et la Russie. Demander aux participants avec ce que vous venez
@@ -130,7 +130,7 @@ Question 3
 Plus compliqué. Vous allez désormais montrer des photo montages réussis.
 Affichez sur le rétro projecteur cette photo :
 
-[![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip5-1024x631.jpg)](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip5.jpg)
+[![](https://voyageursdunumerique.assets/img/2018/11/images-manip5-1024x631.jpg)](https://voyageursdunumerique.assets/img/2018/11/images-manip5.jpg)
 
 Cette photo a supposément été prise par un pilote français mécontent de
 la politique de François Hollande et a beaucoup circulé sur les réseaux
@@ -150,7 +150,7 @@ Encore plus difficile : nous allons apprendre à déceler un photomontage
 en retrouvant les 2 photos qui ont permis de truquer la photo. Affichez
 sur le rétro projecteur la photo suivante
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip6.jpg)
+![](https://voyageursdunumerique.assets/img/2018/11/images-manip6.jpg)
 
 ### Solution guidée
 
@@ -168,7 +168,7 @@ Parfois les recherches sur tineye ne donneront rien. Il faut alors se
 débrouiller avec les indices présents dans la photo.\
 Projetez cette photo
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip7.jpg)
+![](https://voyageursdunumerique.assets/img/2018/11/images-manip7.jpg)
 
 Cette image a été diffusée dans un JT de France 2. La photo était
 présentée comme se déroulant en à Téhéran, en décembre 2009. Elle
@@ -200,7 +200,7 @@ Parmi les outils tiers que vous pouvez utiliser pour localiser la prise
 de vue à partir d'un détail dans la photo, il y a Google Maps. Les
 équipes devront deviner où a été prise cette photo :
 
-![](https://voyageursdunumerique.fr/wp-content/uploads/2018/11/images-manip8.jpg)
+![](https://voyageursdunumerique.assets/img/2018/11/images-manip8.jpg)
 
 ### Solution
 

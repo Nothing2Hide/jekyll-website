@@ -43,7 +43,7 @@ en fonction du contenu de votre conversation.
 ![Deux personnes discutent ce qu'ils pourraient manger pour le dîner.
 Comme par magie, une publicité sur un produit alimentaire apparaît dans
 la
-conversation.](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/facebook-messenger-ads.jpg)
+conversation.](https://voyageursdunumerique.assets/img/2019/01/facebook-messenger-ads.jpg)
 
 Pour vos communications, il y a deux choses à différencier : les
 communications qui passent par le réseau GSM classique (appel
@@ -182,16 +182,16 @@ Organisez les par groupe de deux et demandez-leur de :
 
 ![Pour démarrer une conversation, cliquez sur le stylo puis sélectionnez
 un
-contact](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/compose_1.png)
+contact](https://voyageursdunumerique.assets/img/2019/01/compose_1.png)
 
 Toutes ces étapes seront très instinctives, car l'application ressemble
 à toute autre application de communication.
 
 ![Pour lancer un appel vocal ou laisser un message
-vocal](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/text_message_screen_phone_0.png)
+vocal](https://voyageursdunumerique.assets/img/2019/01/text_message_screen_phone_0.png)
 
 ![Pour lancer un appel vidéo, cliquez la
-caméra](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/ringing_screen_with_video_circled.png)
+caméra](https://voyageursdunumerique.assets/img/2019/01/ringing_screen_with_video_circled.png)
 
 Demander ensuite d'envoyer un message éphémère. Lesmessages éphémères
 s'effacent après  lecture, un peu comme dans mission impossible.
@@ -226,4 +226,4 @@ lors de la conversation.
     conversation \> Afficher le numéro de sécurité.
 
 ![Pour authentifier un
-téléphone](https://voyageursdunumerique.fr/wp-content/uploads/2019/01/safety_number_screen_0.png)
+téléphone](https://voyageursdunumerique.assets/img/2019/01/safety_number_screen_0.png)

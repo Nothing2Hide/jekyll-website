@@ -49,10 +49,10 @@ cette étape, [jetez un œil à la documentation
 officielle](https://help.libreoffice.org/Common/Importing_and_Exporting_Data_in_Text_Format/fr)),
 vous vous retrouvez avec un fichier ressemblant à ceci :
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/data.png){.alignnone
 .size-full .wp-image-4527 width="777" height="772"
 sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data.png 777w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data-150x150.png 150w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data-300x298.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data-768x763.png 768w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data-600x596.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data-161x160.png 161w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data-100x100.png 100w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/09/data.png 777w, https://nothing2hide.org/assets/img/sites/3/2019/09/data-150x150.png 150w, https://nothing2hide.org/assets/img/sites/3/2019/09/data-300x298.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/09/data-768x763.png 768w, https://nothing2hide.org/assets/img/sites/3/2019/09/data-600x596.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/09/data-161x160.png 161w, https://nothing2hide.org/assets/img/sites/3/2019/09/data-100x100.png 100w"}
 
 Copiez uniquement les données des lignes comprenant Chérie FM et allez
 sur sur le site web [datawarapper.de](https://www.datawrapper.de/). Ce
@@ -61,10 +61,10 @@ brutes. Sur la page d’accueil, cliquez sur le bouton *Create a chart* et
 collez les données sélectionnées dans LibreOffice et dans le champs de
 formulaire*.*
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data2.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/data2.png){.alignnone
 .size-full .wp-image-4528 width="1223" height="645"
 sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data2.png 1223w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data2-300x158.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data2-768x405.png 768w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data2-1024x540.png 1024w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data2-600x316.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data2-280x148.png 280w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/09/data2.png 1223w, https://nothing2hide.org/assets/img/sites/3/2019/09/data2-300x158.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/09/data2-768x405.png 768w, https://nothing2hide.org/assets/img/sites/3/2019/09/data2-1024x540.png 1024w, https://nothing2hide.org/assets/img/sites/3/2019/09/data2-600x316.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/09/data2-280x148.png 280w"}
 
 Cliquez sur *Proceed*.
 
@@ -75,10 +75,10 @@ Assurez-vous que les données sont au bon format (que les dates sont bien
 des dates et les chiffres sont bien des chiffres). Normalement
 *datawrapper* le fait automatiquement pour vous.
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data3.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/data3.png){.alignnone
 .size-full .wp-image-4529 width="1219" height="648"
 sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data3.png 1219w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data3-300x159.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data3-768x408.png 768w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data3-1024x544.png 1024w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data3-600x319.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data3-280x149.png 280w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/09/data3.png 1219w, https://nothing2hide.org/assets/img/sites/3/2019/09/data3-300x159.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/09/data3-768x408.png 768w, https://nothing2hide.org/assets/img/sites/3/2019/09/data3-1024x544.png 1024w, https://nothing2hide.org/assets/img/sites/3/2019/09/data3-600x319.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/09/data3-280x149.png 280w"}
 
 *Cliquez sur proceed.*
 
@@ -86,10 +86,10 @@ Lors de cette troisième étape, vous sélectionnez le type de
 visualisation que vous allez utiliser pour afficher votre graphique.
 Sélectionnez les types de graphiques *Lines*.
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data4.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/data4.png){.alignnone
 .size-full .wp-image-4530 width="1199" height="625"
 sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data4.png 1199w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data4-300x156.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data4-768x400.png 768w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data4-1024x534.png 1024w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data4-600x313.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data4-280x146.png 280w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/09/data4.png 1199w, https://nothing2hide.org/assets/img/sites/3/2019/09/data4-300x156.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/09/data4-768x400.png 768w, https://nothing2hide.org/assets/img/sites/3/2019/09/data4-1024x534.png 1024w, https://nothing2hide.org/assets/img/sites/3/2019/09/data4-600x313.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/09/data4-280x146.png 280w"}
 
 Dans l’onglet *Refine* vous allez ensuite définir les données que vous
 allez afficher en abscisses et en ordonnées. Sélectionnez *year* pour
@@ -101,10 +101,10 @@ FM et la parole des femmes »
 
 Votre schéma est prêt pour la publication !
 
-![](https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data6.png){.alignnone
+![](https://nothing2hide.org/assets/img/sites/3/2019/09/data6.png){.alignnone
 .size-full .wp-image-4531 width="646" height="359"
 sizes="(max-width: 646px) 100vw, 646px"
-srcset="https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data6.png 646w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data6-300x167.png 300w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data6-600x333.png 600w, https://nothing2hide.org/fr/wp-content/uploads/sites/3/2019/09/data6-280x156.png 280w"}
+srcset="https://nothing2hide.org/assets/img/sites/3/2019/09/data6.png 646w, https://nothing2hide.org/assets/img/sites/3/2019/09/data6-300x167.png 300w, https://nothing2hide.org/assets/img/sites/3/2019/09/data6-600x333.png 600w, https://nothing2hide.org/assets/img/sites/3/2019/09/data6-280x156.png 280w"}
 
 À vous de jouer !
 -----------------
