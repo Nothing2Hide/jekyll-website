@@ -44,7 +44,7 @@ if(isset($_POST['submit'])){
           //->setCc(['Recipient 2' => 'test2@example.com', 'Recipient 3' => 'test3@example.com'])
           //->setBcc(['Recipient 4' => 'test4@example.com'])
           ->addGenericHeader('X-Mailer', 'PHP/' . phpversion())
-          ->setHtml()
+          //->setHtml()
           ->setMessage($msg)
           ->setWrap(78);
       $send = $mail->send();
@@ -72,8 +72,8 @@ if(isset($_POST['submit'])){
   }
   ?>
   <p><select id="subject" name="subject">
-    <option value="Demande de contact" selected>Demande de contact</option>  
-    <option value="Renseignements formation">Demande de renseignements sur nos formations</option>
+    <option value="Contact" selected>Demande de contact</option>  
+    <option value="Formation">Demande de renseignements sur nos formations</option>
     <option value="VPN">Demande de renseignements sur notre VPN</option>    
     <option value="Autre">Autre</option>
   </select></p>

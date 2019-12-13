@@ -45,7 +45,7 @@ if(isset($_POST['submit'])){
           //->setCc(['Recipient 2' => 'test2@example.com', 'Recipient 3' => 'test3@example.com'])
           //->setBcc(['Recipient 4' => 'test4@example.com'])
           ->addGenericHeader('X-Mailer', 'PHP/' . phpversion())
-          ->setHtml()
+          //->setHtml()
           ->setMessage($msg)
           ->setWrap(78);
       $send = $mail->send();
