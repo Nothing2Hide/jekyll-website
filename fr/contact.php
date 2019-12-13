@@ -84,6 +84,6 @@ if(isset($_POST['submit'])){
   <p><input type='submit' name='submit' value='{{site.t[page.lang].send}}'></p> 
 <?php endif; ?>
 
-<p>Vous pouvez aussi nous contacter de manière sécurisée en nous envoyant <a href="https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:emails">un mail chiffré</a> : à l'adresse <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0xD1A62CFD58519BC4">gregoire [at] nothing2hide.org</a> ou <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x42E6D09B6DBC227E">jm [at] nothing2hide.org</a></p>
+<p>Vous pouvez aussi nous contacter de manière sécurisée en nous envoyant <a href="https://nothing2hide.org/wiki/doku.php?id=protectionnumerique:emails">un mail chiffré</a> : à l'adresse <a href="/fr/pgp-equipe/#gregoire-pouget">gregoire [at] nothing2hide.org</a> ou <a href="/fr/pgp-equipe/#jean-marc-bourguignon">jm [at] nothing2hide.org</a></p>
 
 </form>
